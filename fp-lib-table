@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "openPNP")(type "KiCad")(uri "${KIPRJMOD}/openPNP.pretty")(options "")(descr ""))
+)

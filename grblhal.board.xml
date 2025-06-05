@@ -1,0 +1,903 @@
+<openpnp-board version="1.1" name="grblhal.board.xml">
+   <dimensions units="Millimeters" x="0.0" y="0.0" z="0.0" rotation="0.0"/>
+   <placements>
+      <placement version="1.4" side="Top" id="R93" type="Placement" enabled="true">
+         <location units="Millimeters" x="133.63" y="14.989999999999995" z="0.0" rotation="180.0"/>
+         <comments>C25804</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R20" type="Placement" enabled="true">
+         <location units="Millimeters" x="24.774249999999995" y="44.715" z="0.0" rotation="90.0"/>
+         <comments>C22775</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R70" type="Placement" enabled="true">
+         <location units="Millimeters" x="75.49285699999999" y="38.102500000000006" z="0.0" rotation="90.0"/>
+         <comments>C21190</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C45" type="Placement" enabled="true">
+         <location units="Millimeters" x="47.069107" y="38.102500000000006" z="0.0" rotation="90.0"/>
+         <comments>C14663</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C19" type="Placement" enabled="true">
+         <location units="Millimeters" x="19.525000000000006" y="53.620000000000005" z="0.0" rotation="180.0"/>
+         <comments>C12891</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C50" type="Placement" enabled="true">
+         <location units="Millimeters" x="47.75" y="92.52000000000001" z="0.0" rotation="-90.0"/>
+         <comments>C14663</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="RV1" type="Placement" enabled="true">
+         <location units="Millimeters" x="126.43" y="25.5" z="0.0" rotation="180.0"/>
+         <comments>C128157</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C78" type="Placement" enabled="true">
+         <location units="Millimeters" x="112.755" y="38.114999999999995" z="0.0" rotation="90.0"/>
+         <comments>C14663</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="FID1" type="Fiducial" enabled="true">
+         <location units="Millimeters" x="104.74000000000001" y="79.22999999999999" z="0.0" rotation="0.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R74" type="Placement" enabled="true">
+         <location units="Millimeters" x="91.20544699999999" y="25.4825" z="0.0" rotation="90.0"/>
+         <comments>C21190</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C46" type="Placement" enabled="true">
+         <location units="Millimeters" x="44.117678999999995" y="38.102500000000006" z="0.0" rotation="90.0"/>
+         <comments>C14663</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R18" type="Placement" enabled="true">
+         <location units="Millimeters" x="15.464250000000007" y="35.353571" z="0.0" rotation="0.0"/>
+         <comments>C25804</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U2" type="Placement" enabled="true">
+         <location units="Millimeters" x="18.060000000000002" y="85.08500000000001" z="0.0" rotation="180.0"/>
+         <comments>C336020</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C81" type="Placement" enabled="true">
+         <location units="Millimeters" x="137.69" y="21.14" z="0.0" rotation="180.0"/>
+         <comments>C14663</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U19" type="Placement" enabled="true">
+         <location units="Millimeters" x="95.65544700000001" y="31.7325" z="0.0" rotation="90.0"/>
+         <comments>C150957</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C1" type="Placement" enabled="true">
+         <location units="Millimeters" x="43.92" y="64.675" z="0.0" rotation="-90.0"/>
+         <comments>C1634</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U4" type="Placement" enabled="true">
+         <location units="Millimeters" x="126.53999999999999" y="66.25" z="0.0" rotation="0.0"/>
+         <comments>C5219260</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U11" type="Placement" enabled="true">
+         <location units="Millimeters" x="76.65" y="92.52000000000001" z="0.0" rotation="90.0"/>
+         <comments>C14461</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R92" type="Placement" enabled="true">
+         <location units="Millimeters" x="133.63" y="16.739999999999995" z="0.0" rotation="180.0"/>
+         <comments>C25804</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R44" type="Placement" enabled="true">
+         <location units="Millimeters" x="56.19" y="88.58" z="0.0" rotation="-90.0"/>
+         <comments>C25804</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C71" type="Placement" enabled="true">
+         <location units="Millimeters" x="76.968572" y="38.102500000000006" z="0.0" rotation="90.0"/>
+         <comments>C14663</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U5" type="Placement" enabled="true">
+         <location units="Millimeters" x="131.3725" y="95.97" z="0.0" rotation="0.0"/>
+         <comments>C5219260</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C21" type="Placement" enabled="true">
+         <location units="Millimeters" x="106.32" y="64.76" z="0.0" rotation="-90.0"/>
+         <comments>C12891</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R75" type="Placement" enabled="true">
+         <location units="Millimeters" x="93.755447" y="25.4825" z="0.0" rotation="90.0"/>
+         <comments>C21190</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C15" type="Placement" enabled="true">
+         <location units="Millimeters" x="132.38" y="65.33" z="0.0" rotation="-90.0"/>
+         <comments>C2991173</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R2" type="Placement" enabled="true">
+         <location units="Millimeters" x="74.08000000000001" y="77.1" z="0.0" rotation="-90.0"/>
+         <comments>C25804</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U3" type="Placement" enabled="true">
+         <location units="Millimeters" x="26.730000000000004" y="56.769999999999996" z="0.0" rotation="-90.0"/>
+         <comments>C347222</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R80" type="Placement" enabled="true">
+         <location units="Millimeters" x="97.82116099999999" y="38.102500000000006" z="0.0" rotation="90.0"/>
+         <comments>C21190</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R68" type="Placement" enabled="true">
+         <location units="Millimeters" x="79.88" y="25.4825" z="0.0" rotation="90.0"/>
+         <comments>C21190</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C42" type="Placement" enabled="true">
+         <location units="Millimeters" x="19.974249999999998" y="33.7" z="0.0" rotation="90.0"/>
+         <comments>C14663</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C11" type="Placement" enabled="true">
+         <location units="Millimeters" x="94.4" y="77.545" z="0.0" rotation="-90.0"/>
+         <comments>C14663</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C33" type="Placement" enabled="true">
+         <location units="Millimeters" x="117.33500000000001" y="84.66" z="0.0" rotation="0.0"/>
+         <comments>C12891</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R14" type="Placement" enabled="true">
+         <location units="Millimeters" x="15.464250000000007" y="39.862143" z="0.0" rotation="0.0"/>
+         <comments>C25804</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C62" type="Placement" enabled="true">
+         <location units="Millimeters" x="19.974249999999998" y="18.015" z="0.0" rotation="90.0"/>
+         <comments>C14663</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R37" type="Placement" enabled="true">
+         <location units="Millimeters" x="46.14" y="88.58" z="0.0" rotation="-90.0"/>
+         <comments>C25804</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R62" type="Placement" enabled="true">
+         <location units="Millimeters" x="59.05785700000001" y="38.065" z="0.0" rotation="90.0"/>
+         <comments>C21190</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C49" type="Placement" enabled="true">
+         <location units="Millimeters" x="40.239999999999995" y="92.52000000000001" z="0.0" rotation="-90.0"/>
+         <comments>C14663</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C82" type="Placement" enabled="true">
+         <location units="Millimeters" x="137.58" y="13.519999999999996" z="0.0" rotation="180.0"/>
+         <comments>C14663</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="Y1" type="Placement" enabled="true">
+         <location units="Millimeters" x="40.81999999999999" y="63.05" z="0.0" rotation="0.0"/>
+         <comments>C518155</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R65" type="Placement" enabled="true">
+         <location units="Millimeters" x="67.91214299999999" y="38.065" z="0.0" rotation="90.0"/>
+         <comments>C21190</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C31" type="Placement" enabled="true">
+         <location units="Millimeters" x="131.735" y="98.97999999999999" z="0.0" rotation="180.0"/>
+         <comments>C14663</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U22" type="Placement" enabled="true">
+         <location units="Millimeters" x="137.58" y="15.89" z="0.0" rotation="0.0"/>
+         <comments>C14461</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R39" type="Placement" enabled="true">
+         <location units="Millimeters" x="77.41" y="88.58" z="0.0" rotation="-90.0"/>
+         <comments>C25804</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C5" type="Placement" enabled="true">
+         <location units="Millimeters" x="54.0" y="50.75" z="0.0" rotation="-135.0"/>
+         <comments>C14663</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U1" type="Placement" enabled="true">
+         <location units="Millimeters" x="60.900000000000006" y="62.870000000000005" z="0.0" rotation="0.0"/>
+         <comments>C28730</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R34" type="Placement" enabled="true">
+         <location units="Millimeters" x="37.11" y="88.58" z="0.0" rotation="-90.0"/>
+         <comments>C25804</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C44" type="Placement" enabled="true">
+         <location units="Millimeters" x="50.02053599999999" y="38.102500000000006" z="0.0" rotation="90.0"/>
+         <comments>C14663</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="SW1" type="Placement" enabled="true">
+         <location units="Millimeters" x="89.72" y="76.445" z="0.0" rotation="0.0"/>
+         <comments>C318884</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C29" type="Placement" enabled="true">
+         <location units="Millimeters" x="38.388000000000005" y="56.129999999999995" z="0.0" rotation="-90.0"/>
+         <comments>C15849</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C12" type="Placement" enabled="true">
+         <location units="Millimeters" x="49.28999999999999" y="58.72" z="0.0" rotation="-135.0"/>
+         <comments>C14663</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R56" type="Placement" enabled="true">
+         <location units="Millimeters" x="21.524249999999995" y="18.015" z="0.0" rotation="-90.0"/>
+         <comments>C22775</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U10" type="Placement" enabled="true">
+         <location units="Millimeters" x="45.379999999999995" y="92.52000000000001" z="0.0" rotation="90.0"/>
+         <comments>C14461</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R60" type="Placement" enabled="true">
+         <location units="Millimeters" x="63.44499999999999" y="25.444999999999993" z="0.0" rotation="90.0"/>
+         <comments>C21190</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R79" type="Placement" enabled="true">
+         <location units="Millimeters" x="94.869733" y="38.102500000000006" z="0.0" rotation="90.0"/>
+         <comments>C21190</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U14" type="Placement" enabled="true">
+         <location units="Millimeters" x="56.94999999999999" y="92.52000000000001" z="0.0" rotation="90.0"/>
+         <comments>C14461</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C63" type="Placement" enabled="true">
+         <location units="Millimeters" x="26.31425" y="18.010000000000005" z="0.0" rotation="90.0"/>
+         <comments>C14663</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R36" type="Placement" enabled="true">
+         <location units="Millimeters" x="44.620000000000005" y="88.58" z="0.0" rotation="-90.0"/>
+         <comments>C25804</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R96" type="Placement" enabled="true">
+         <location units="Millimeters" x="22.495000000000005" y="68.68" z="0.0" rotation="180.0"/>
+         <comments>C21190</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R55" type="Placement" enabled="true">
+         <location units="Millimeters" x="21.524249999999995" y="29.03" z="0.0" rotation="90.0"/>
+         <comments>C22775</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C54" type="Placement" enabled="true">
+         <location units="Millimeters" x="59.31999999999999" y="92.52000000000001" z="0.0" rotation="-90.0"/>
+         <comments>C14663</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R46" type="Placement" enabled="true">
+         <location units="Millimeters" x="15.479249999999993" y="27.182857" z="0.0" rotation="0.0"/>
+         <comments>C25804</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R33" type="Placement" enabled="true">
+         <location units="Millimeters" x="30.89" y="88.58" z="0.0" rotation="-90.0"/>
+         <comments>C25804</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R100" type="Placement" enabled="true">
+         <location units="Millimeters" x="130.19" y="26.974999999999994" z="0.0" rotation="-90.0"/>
+         <comments>C25804</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C41" type="Placement" enabled="true">
+         <location units="Millimeters" x="19.994249999999994" y="44.715" z="0.0" rotation="-90.0"/>
+         <comments>C14663</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R58" type="Placement" enabled="true">
+         <location units="Millimeters" x="58.345" y="25.444999999999993" z="0.0" rotation="90.0"/>
+         <comments>C21190</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R72" type="Placement" enabled="true">
+         <location units="Millimeters" x="81.395714" y="38.102500000000006" z="0.0" rotation="90.0"/>
+         <comments>C21190</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C23" type="Placement" enabled="true">
+         <location units="Millimeters" x="101.53" y="64.76" z="0.0" rotation="-90.0"/>
+         <comments>C12891</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C56" type="Placement" enabled="true">
+         <location units="Millimeters" x="17.68925" y="27.935714000000004" z="0.0" rotation="90.0"/>
+         <comments>C14663</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C72" type="Placement" enabled="true">
+         <location units="Millimeters" x="74.017143" y="38.102500000000006" z="0.0" rotation="90.0"/>
+         <comments>C14663</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C3" type="Placement" enabled="true">
+         <location units="Millimeters" x="68.28999999999999" y="51.790000000000006" z="0.0" rotation="-45.0"/>
+         <comments>C43922</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="FID2" type="Fiducial" enabled="true">
+         <location units="Millimeters" x="70.0" y="25.0" z="0.0" rotation="0.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R42" type="Placement" enabled="true">
+         <location units="Millimeters" x="91.13" y="88.58" z="0.0" rotation="-90.0"/>
+         <comments>C25804</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C79" type="Placement" enabled="true">
+         <location units="Millimeters" x="109.803572" y="38.114999999999995" z="0.0" rotation="90.0"/>
+         <comments>C14663</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C32" type="Placement" enabled="true">
+         <location units="Millimeters" x="117.33500000000001" y="87.05" z="0.0" rotation="0.0"/>
+         <comments>C12891</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U17" type="Placement" enabled="true">
+         <location units="Millimeters" x="62.79499999999999" y="31.694999999999993" z="0.0" rotation="90.0"/>
+         <comments>C150957</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R86" type="Placement" enabled="true">
+         <location units="Millimeters" x="108.327857" y="38.114999999999995" z="0.0" rotation="90.0"/>
+         <comments>C21190</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R76" type="Placement" enabled="true">
+         <location units="Millimeters" x="96.30544699999999" y="25.4825" z="0.0" rotation="90.0"/>
+         <comments>C21190</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C35" type="Placement" enabled="true">
+         <location units="Millimeters" x="26.53425" y="39.254999999999995" z="0.0" rotation="-90.0"/>
+         <comments>C14663</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C58" type="Placement" enabled="true">
+         <location units="Millimeters" x="17.68925" y="21.922381" z="0.0" rotation="90.0"/>
+         <comments>C14663</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="L2" type="Placement" enabled="true">
+         <location units="Millimeters" x="120.81" y="95.97" z="0.0" rotation="180.0"/>
+         <comments>C339948</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C25" type="Placement" enabled="true">
+         <location units="Millimeters" x="45.019999999999996" y="54.39" z="0.0" rotation="-90.0"/>
+         <comments>C15849</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C14" type="Placement" enabled="true">
+         <location units="Millimeters" x="12.5" y="54.019999999999996" z="0.0" rotation="-90.0"/>
+         <comments>C14663</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R31" type="Placement" enabled="true">
+         <location units="Millimeters" x="51.49625" y="38.102500000000006" z="0.0" rotation="90.0"/>
+         <comments>C21190</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="J13" type="Placement" enabled="true">
+         <location units="Millimeters" x="52.34" y="81.41" z="0.0" rotation="0.0"/>
+         <comments>C150517</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="SW2" type="Placement" enabled="true">
+         <location units="Millimeters" x="78.94999999999999" y="76.05" z="0.0" rotation="0.0"/>
+         <comments>C318884</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R10" type="Placement" enabled="true">
+         <location units="Millimeters" x="132.51" y="92.41" z="0.0" rotation="-90.0"/>
+         <comments>C22793</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R27" type="Placement" enabled="true">
+         <location units="Millimeters" x="49.54910699999999" y="25.4825" z="0.0" rotation="90.0"/>
+         <comments>C21190</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C9" type="Placement" enabled="true">
+         <location units="Millimeters" x="48.28999999999999" y="63.870000000000005" z="0.0" rotation="180.0"/>
+         <comments>C14663</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R85" type="Placement" enabled="true">
+         <location units="Millimeters" x="115.23500000000001" y="25.495000000000005" z="0.0" rotation="90.0"/>
+         <comments>C21190</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C68" type="Placement" enabled="true">
+         <location units="Millimeters" x="57.582143" y="38.065" z="0.0" rotation="90.0"/>
+         <comments>C14663</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C80" type="Placement" enabled="true">
+         <location units="Millimeters" x="106.85214300000001" y="38.114999999999995" z="0.0" rotation="90.0"/>
+         <comments>C14663</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R9" type="Placement" enabled="true">
+         <location units="Millimeters" x="130.96" y="92.41" z="0.0" rotation="90.0"/>
+         <comments>C25803</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U6" type="Placement" enabled="true">
+         <location units="Millimeters" x="22.824250000000006" y="39.19499999999999" z="0.0" rotation="-90.0"/>
+         <comments>C50282</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U24" type="Placement" enabled="true">
+         <location units="Millimeters" x="20.760000000000005" y="72.4175" z="0.0" rotation="0.0"/>
+         <comments>C15999</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R54" type="Placement" enabled="true">
+         <location units="Millimeters" x="24.774249999999995" y="29.03" z="0.0" rotation="90.0"/>
+         <comments>C22775</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R4" type="Placement" enabled="true">
+         <location units="Millimeters" x="29.189999999999998" y="50.317499999999995" z="0.0" rotation="90.0"/>
+         <comments>C23228</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C83" type="Placement" enabled="true">
+         <location units="Millimeters" x="107.33000000000001" y="92.52000000000001" z="0.0" rotation="-90.0"/>
+         <comments>C14663</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C40" type="Placement" enabled="true">
+         <location units="Millimeters" x="26.31425" y="44.715" z="0.0" rotation="-90.0"/>
+         <comments>C14663</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U21" type="Placement" enabled="true">
+         <location units="Millimeters" x="137.69" y="23.510000000000005" z="0.0" rotation="0.0"/>
+         <comments>C14461</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R13" type="Placement" enabled="true">
+         <location units="Millimeters" x="15.479249999999993" y="44.37071400000001" z="0.0" rotation="180.0"/>
+         <comments>C4184</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C74" type="Placement" enabled="true">
+         <location units="Millimeters" x="96.34544700000001" y="38.102500000000006" z="0.0" rotation="90.0"/>
+         <comments>C14663</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C10" type="Placement" enabled="true">
+         <location units="Millimeters" x="47.599999999999994" y="67.91" z="0.0" rotation="135.0"/>
+         <comments>C14663</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C28" type="Placement" enabled="true">
+         <location units="Millimeters" x="135.475" y="99.86" z="0.0" rotation="0.0"/>
+         <comments>C14663</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R19" type="Placement" enabled="true">
+         <location units="Millimeters" x="15.469250000000002" y="33.850713999999996" z="0.0" rotation="180.0"/>
+         <comments>C4184</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R99" type="Placement" enabled="true">
+         <location units="Millimeters" x="130.15" y="31.485" z="0.0" rotation="-90.0"/>
+         <comments>C25804</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C27" type="Placement" enabled="true">
+         <location units="Millimeters" x="40.04600000000001" y="54.489999999999995" z="0.0" rotation="-90.0"/>
+         <comments>C14663</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C73" type="Placement" enabled="true">
+         <location units="Millimeters" x="99.296876" y="38.102500000000006" z="0.0" rotation="90.0"/>
+         <comments>C14663</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R15" type="Placement" enabled="true">
+         <location units="Millimeters" x="15.464250000000007" y="41.364999999999995" z="0.0" rotation="180.0"/>
+         <comments>C4184</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R24" type="Placement" enabled="true">
+         <location units="Millimeters" x="41.929107" y="25.4825" z="0.0" rotation="90.0"/>
+         <comments>C21190</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R66" type="Placement" enabled="true">
+         <location units="Millimeters" x="74.78" y="25.4825" z="0.0" rotation="90.0"/>
+         <comments>C21190</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C51" type="Placement" enabled="true">
+         <location units="Millimeters" x="79.02000000000001" y="92.52000000000001" z="0.0" rotation="-90.0"/>
+         <comments>C14663</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C60" type="Placement" enabled="true">
+         <location units="Millimeters" x="26.31425" y="29.03" z="0.0" rotation="-90.0"/>
+         <comments>C14663</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C47" type="Placement" enabled="true">
+         <location units="Millimeters" x="41.166250000000005" y="38.102500000000006" z="0.0" rotation="90.0"/>
+         <comments>C14663</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R89" type="Placement" enabled="true">
+         <location units="Millimeters" x="117.182143" y="38.114999999999995" z="0.0" rotation="90.0"/>
+         <comments>C21190</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R48" type="Placement" enabled="true">
+         <location units="Millimeters" x="15.464250000000007" y="24.177143" z="0.0" rotation="0.0"/>
+         <comments>C25804</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U8" type="Placement" enabled="true">
+         <location units="Millimeters" x="30.129999999999995" y="92.52000000000001" z="0.0" rotation="90.0"/>
+         <comments>C14461</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C34" type="Placement" enabled="true">
+         <location units="Millimeters" x="117.33500000000001" y="82.27000000000001" z="0.0" rotation="0.0"/>
+         <comments>C12891</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R45" type="Placement" enabled="true">
+         <location units="Millimeters" x="57.71000000000001" y="88.58" z="0.0" rotation="-90.0"/>
+         <comments>C25804</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D1" type="Placement" enabled="true">
+         <location units="Millimeters" x="31.159999999999997" y="50.43000000000001" z="0.0" rotation="90.0"/>
+         <comments>C2297</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R22" type="Placement" enabled="true">
+         <location units="Millimeters" x="21.524249999999995" y="33.7" z="0.0" rotation="-90.0"/>
+         <comments>C22775</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C24" type="Placement" enabled="true">
+         <location units="Millimeters" x="135.65" y="98.03999999999999" z="0.0" rotation="0.0"/>
+         <comments>C2991173</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U23" type="Placement" enabled="true">
+         <location units="Millimeters" x="104.96000000000001" y="92.52000000000001" z="0.0" rotation="90.0"/>
+         <comments>C14461</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R52" type="Placement" enabled="true">
+         <location units="Millimeters" x="15.464250000000007" y="19.668571" z="0.0" rotation="0.0"/>
+         <comments>C25804</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C66" type="Placement" enabled="true">
+         <location units="Millimeters" x="63.485000000000014" y="38.065" z="0.0" rotation="90.0"/>
+         <comments>C14663</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R63" type="Placement" enabled="true">
+         <location units="Millimeters" x="62.009286" y="38.065" z="0.0" rotation="90.0"/>
+         <comments>C21190</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="FB1" type="Placement" enabled="true">
+         <location units="Millimeters" x="43.361999999999995" y="54.41" z="0.0" rotation="90.0"/>
+         <comments>C108301</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C7" type="Placement" enabled="true">
+         <location units="Millimeters" x="68.57499999999999" y="72.61" z="0.0" rotation="90.0"/>
+         <comments>C14663</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R49" type="Placement" enabled="true">
+         <location units="Millimeters" x="15.464250000000007" y="25.680000000000007" z="0.0" rotation="180.0"/>
+         <comments>C4184</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R91" type="Placement" enabled="true">
+         <location units="Millimeters" x="133.75" y="22.75" z="0.0" rotation="180.0"/>
+         <comments>C25804</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C55" type="Placement" enabled="true">
+         <location units="Millimeters" x="26.53425" y="23.569999999999993" z="0.0" rotation="-90.0"/>
+         <comments>C14663</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C86" type="Placement" enabled="true">
+         <location units="Millimeters" x="135.88" y="29.03" z="0.0" rotation="0.0"/>
+         <comments>C15849</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R73" type="Placement" enabled="true">
+         <location units="Millimeters" x="84.34714299999999" y="38.102500000000006" z="0.0" rotation="90.0"/>
+         <comments>C21190</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C30" type="Placement" enabled="true">
+         <location units="Millimeters" x="36.730000000000004" y="56.129999999999995" z="0.0" rotation="-90.0"/>
+         <comments>C14663</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C76" type="Placement" enabled="true">
+         <location units="Millimeters" x="90.44259" y="38.102500000000006" z="0.0" rotation="90.0"/>
+         <comments>C14663</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R38" type="Placement" enabled="true">
+         <location units="Millimeters" x="75.88999999999999" y="88.58" z="0.0" rotation="-90.0"/>
+         <comments>C25804</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="FID5" type="Fiducial" enabled="true">
+         <location units="Millimeters" x="14.0" y="93.95" z="0.0" rotation="0.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U20" type="Placement" enabled="true">
+         <location units="Millimeters" x="112.065" y="31.745000000000005" z="0.0" rotation="90.0"/>
+         <comments>C150957</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="FID3" type="Fiducial" enabled="true">
+         <location units="Millimeters" x="67.03" y="87.77000000000001" z="0.0" rotation="0.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C16" type="Placement" enabled="true">
+         <location units="Millimeters" x="130.28" y="65.33" z="0.0" rotation="-90.0"/>
+         <comments>C2991173</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R35" type="Placement" enabled="true">
+         <location units="Millimeters" x="38.629999999999995" y="88.58" z="0.0" rotation="-90.0"/>
+         <comments>C25804</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U13" type="Placement" enabled="true">
+         <location units="Millimeters" x="91.88999999999999" y="92.52000000000001" z="0.0" rotation="90.0"/>
+         <comments>C14461</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C22" type="Placement" enabled="true">
+         <location units="Millimeters" x="103.93" y="64.76" z="0.0" rotation="-90.0"/>
+         <comments>C12891</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C57" type="Placement" enabled="true">
+         <location units="Millimeters" x="17.68925" y="24.929046999999997" z="0.0" rotation="-90.0"/>
+         <comments>C14663</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D2" type="Placement" enabled="true">
+         <location units="Millimeters" x="101.53" y="69.39" z="0.0" rotation="-90.0"/>
+         <comments>C2297</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C38" type="Placement" enabled="true">
+         <location units="Millimeters" x="17.68925" y="37.607381000000004" z="0.0" rotation="90.0"/>
+         <comments>C14663</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R71" type="Placement" enabled="true">
+         <location units="Millimeters" x="78.444286" y="38.102500000000006" z="0.0" rotation="90.0"/>
+         <comments>C21190</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C4" type="Placement" enabled="true">
+         <location units="Millimeters" x="72.58000000000001" y="67.87" z="0.0" rotation="0.0"/>
+         <comments>C43922</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R6" type="Placement" enabled="true">
+         <location units="Millimeters" x="127.66999999999999" y="62.56999999999999" z="0.0" rotation="-90.0"/>
+         <comments>C23068</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C17" type="Placement" enabled="true">
+         <location units="Millimeters" x="134.23" y="65.505" z="0.0" rotation="-90.0"/>
+         <comments>C14663</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U9" type="Placement" enabled="true">
+         <location units="Millimeters" x="37.870000000000005" y="92.52000000000001" z="0.0" rotation="90.0"/>
+         <comments>C14461</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U7" type="Placement" enabled="true">
+         <location units="Millimeters" x="46.379107000000005" y="31.7325" z="0.0" rotation="90.0"/>
+         <comments>C150957</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R32" type="Placement" enabled="true">
+         <location units="Millimeters" x="29.370000000000005" y="88.58" z="0.0" rotation="-90.0"/>
+         <comments>C25804</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R28" type="Placement" enabled="true">
+         <location units="Millimeters" x="42.641964" y="38.102500000000006" z="0.0" rotation="90.0"/>
+         <comments>C21190</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R67" type="Placement" enabled="true">
+         <location units="Millimeters" x="77.33000000000001" y="25.4825" z="0.0" rotation="90.0"/>
+         <comments>C21190</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R82" type="Placement" enabled="true">
+         <location units="Millimeters" x="107.61500000000001" y="25.495000000000005" z="0.0" rotation="90.0"/>
+         <comments>C21190</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C26" type="Placement" enabled="true">
+         <location units="Millimeters" x="135.65" y="95.95" z="0.0" rotation="0.0"/>
+         <comments>C2991173</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R1" type="Placement" enabled="true">
+         <location units="Millimeters" x="85.06" y="77.495" z="0.0" rotation="90.0"/>
+         <comments>C25804</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R26" type="Placement" enabled="true">
+         <location units="Millimeters" x="47.029106999999996" y="25.4825" z="0.0" rotation="90.0"/>
+         <comments>C21190</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R64" type="Placement" enabled="true">
+         <location units="Millimeters" x="64.960714" y="38.065" z="0.0" rotation="90.0"/>
+         <comments>C21190</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C13" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.364999999999995" y="81.44" z="0.0" rotation="0.0"/>
+         <comments>C14663</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R40" type="Placement" enabled="true">
+         <location units="Millimeters" x="83.47999999999999" y="88.58" z="0.0" rotation="-90.0"/>
+         <comments>C25804</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R21" type="Placement" enabled="true">
+         <location units="Millimeters" x="21.524249999999995" y="44.715" z="0.0" rotation="90.0"/>
+         <comments>C22775</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R50" type="Placement" enabled="true">
+         <location units="Millimeters" x="15.464250000000007" y="22.674284999999998" z="0.0" rotation="0.0"/>
+         <comments>C25804</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C2" type="Placement" enabled="true">
+         <location units="Millimeters" x="43.93000000000001" y="61.425" z="0.0" rotation="-90.0"/>
+         <comments>C1634</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C75" type="Placement" enabled="true">
+         <location units="Millimeters" x="93.39401899999999" y="38.102500000000006" z="0.0" rotation="90.0"/>
+         <comments>C14663</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C43" type="Placement" enabled="true">
+         <location units="Millimeters" x="26.31425" y="33.69499999999999" z="0.0" rotation="90.0"/>
+         <comments>C14663</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R51" type="Placement" enabled="true">
+         <location units="Millimeters" x="15.464250000000007" y="21.171428000000006" z="0.0" rotation="180.0"/>
+         <comments>C4184</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R29" type="Placement" enabled="true">
+         <location units="Millimeters" x="45.593393000000006" y="38.102500000000006" z="0.0" rotation="90.0"/>
+         <comments>C21190</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C70" type="Placement" enabled="true">
+         <location units="Millimeters" x="79.91999999999999" y="38.102500000000006" z="0.0" rotation="90.0"/>
+         <comments>C14663</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U25" type="Placement" enabled="true">
+         <location units="Millimeters" x="125.39500000000001" y="34.215" z="0.0" rotation="180.0"/>
+         <comments>C7950</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R57" type="Placement" enabled="true">
+         <location units="Millimeters" x="24.774249999999995" y="18.015" z="0.0" rotation="-90.0"/>
+         <comments>C22775</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D3" type="Placement" enabled="true">
+         <location units="Millimeters" x="112.61000000000001" y="82.25" z="0.0" rotation="0.0"/>
+         <comments>C2297</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R83" type="Placement" enabled="true">
+         <location units="Millimeters" x="110.16499999999999" y="25.495000000000005" z="0.0" rotation="90.0"/>
+         <comments>C21190</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C37" type="Placement" enabled="true">
+         <location units="Millimeters" x="17.68925" y="40.614047" z="0.0" rotation="-90.0"/>
+         <comments>C14663</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R84" type="Placement" enabled="true">
+         <location units="Millimeters" x="112.715" y="25.495000000000005" z="0.0" rotation="90.0"/>
+         <comments>C21190</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D4" type="Placement" enabled="true">
+         <location units="Millimeters" x="26.040000000000006" y="68.68" z="0.0" rotation="0.0"/>
+         <comments>C2297</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C64" type="Placement" enabled="true">
+         <location units="Millimeters" x="133.695" y="38.47" z="0.0" rotation="180.0"/>
+         <comments>C15849</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C65" type="Placement" enabled="true">
+         <location units="Millimeters" x="66.436429" y="38.065" z="0.0" rotation="90.0"/>
+         <comments>C14663</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C61" type="Placement" enabled="true">
+         <location units="Millimeters" x="19.994249999999994" y="29.03" z="0.0" rotation="-90.0"/>
+         <comments>C14663</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R59" type="Placement" enabled="true">
+         <location units="Millimeters" x="60.89500000000001" y="25.444999999999993" z="0.0" rotation="90.0"/>
+         <comments>C21190</comments>
+         <error-handling>Default</error-handling>
+      </placement>
+   </placements>
+   <fiducials/>
+   <solder-paste-pads/>
+</openpnp-board>

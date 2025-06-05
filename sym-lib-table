@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "OpenPNP_20-easyedapro")(type "KiCad")(uri "${KIPRJMOD}/OpenPNP_20-easyedapro.kicad_sym")(options "")(descr ""))
+)

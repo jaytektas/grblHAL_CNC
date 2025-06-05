@@ -1,0 +1,212 @@
+Your GRBLHAL STM32F4xx controller sounds like a very capable and feature-rich device! Creating comprehensive user documentation is crucial for its successful adoption. Here's a detailed outline covering the information, schematics, and explanations you should provide, aimed at users who might be new to GRBLHAL or even CNC in general.
+
+User Documentation Outline: GRBLHAL STM32F4xx CNC Controller
+Document Title: GRBLHAL STM32F4xx CNC Controller User Manual
+
+Version: 1.0 (or appropriate initial version)
+Date: [Current Date]
+Author: [Your Name/Company]
+
+1. Introduction
+1.1 Welcome and Overview:
+Brief introduction to the GRBLHAL STM32F4xx controller.
+What it is, what it does, and its primary purpose (controlling CNC machines).
+Key features highlighted (e.g., 6 axes, PWM spindle, USB, etc.).
+Target audience (hobbyists, small workshops, etc.).
+1.2 Safety Precautions:
+CRITICAL SECTION. Emphasize electrical safety (disconnecting power, proper grounding).
+Mechanical safety (moving parts, pinch points, eye protection).
+Fire safety (spindle, power supplies).
+General workshop safety.
+Disclaimer: State that incorrect use can lead to damage, injury, or fire. User assumes all risks.
+1.3 About GRBLHAL:
+Brief explanation of GRBLHAL firmware (open-source, high-performance, optimized for STM32).
+Why GRBLHAL was chosen for this controller.
+Where to find more information about GRBLHAL (official website/repository).
+2. Controller Features and Specifications
+2.1 Key Features Summary:
+Six-axis control (X, Y, Z, A, B, C - clearly define default assignments if applicable).
+PWM Spindle Control (RPM range, how it's controlled).
+USB Connectivity (for communication with host PC).
+USART Breakout (for serial communication, e.g., external displays, modules).
+I2C Breakout (for sensors, character LCDs, etc.).
+SPI Breakout (for additional peripherals).
+Dual On-board Power Supply (12V and 5V @ 3A - emphasize capabilities and limitations).
+Status LEDs (Power, Activity, Error - explain what each indicates).
+Input/Output Pins (Limit switches, probe, hold, resume, reset, coolant, etc.).
+2.2 Technical Specifications:
+Microcontroller: STM32F4xx (specify exact model if relevant, e.g., STM32F407VGT6).
+Input Voltage Range: (e.g., 12V-24V DC for main power).
+On-board Power Supply Output: 12V @ 3A, 5V @ 3A.
+Number of Axes: 6.
+Stepper Driver Interface: (e.g., Step/Dir/Enable signals, compatibility with common drivers like A4988, DRV8825, TMC2209, etc.).
+Spindle Control: PWM (frequency, duty cycle range).
+Connectivity: USB-B, Pin Headers for USART, I2C, SPI.
+Dimensions: (Optional, but helpful for enclosure design).
+Operating Temperature: (Optional).
+3. Hardware Overview and Connections
+3.1 Board Layout Diagram:
+High-resolution image of the PCB.
+Clearly label every connector, jumper, LED, and significant component directly on the image.
+Use callouts or numbered pins for clarity.
+3.2 Pinout Diagrams / Tables:
+Detailed tables for each connector/header.
+Axis Stepper Motor Connections:
+Step, Direction, Enable for each of the 6 axes.
+Clearly indicate which pins correspond to X, Y, Z, A, B, C.
+Explain common wiring for stepper drivers (e.g., step-dir-enable to driver, motor to driver).
+Spindle Control Output:
+PWM Output pin.
+Ground.
+(If applicable) Spindle Enable/Direction pins.
+Explanation for connecting to a VFD or external motor driver.
+Limit Switch Inputs:
+Individual pins for X, Y, Z (and A, B, C if applicable).
+Common ground for limit switches.
+Explain normally open (NO) vs. normally closed (NC) wiring and their advantages/disadvantages (NC is generally preferred for noise immunity).
+How to configure in GRBLHAL.
+Probe Input:
+Pin for Z-probe.
+Ground.
+Control Inputs:
+Feed Hold, Cycle Start/Resume, Reset (if physical buttons are supported).
+Ground for these inputs.
+Coolant Outputs:
+Mist Coolant, Flood Coolant (if supported, e.g., via relay).
+Relay connection examples.
+On-board Power Supply Outputs:
+12V and 5V output headers/terminals.
+Maximum current ratings.
+WARNINGS: Do not exceed current limits; proper polarity.
+USART, I2C, SPI Breakouts:
+Pin assignments (Tx, Rx, SDA, SCL, MOSI, MISO, SCK, CS, VCC, GND).
+Brief explanation of their purpose.
+USB Port:
+USB-B connector.
+For PC communication and firmware flashing.
+3.3 Powering the Controller:
+Input power requirements (voltage, current rating of power supply).
+Connector type (e.g., DC barrel jack, screw terminals).
+Crucial: Polarity diagram and warning.
+How to connect the main power supply.
+Explanation of the on-board power supplies and their usage (e.g., for sensors, auxiliary cooling fans, LEDs).
+3.4 Schematics (Appendix or Linked Section):
+Block Diagram: A high-level overview of the entire system (STM32, power supplies, drivers, I/O, USB) showing how different sections interconnect. This helps users understand the overall architecture.
+Simplified Connection Diagram: A clear, simplified diagram showing how to connect stepper drivers, motors, limit switches, spindle, and power to the controller. This is often more useful for a quick setup than a full schematic.
+Full Electrical Schematic (Optional but highly recommended for advanced users/troubleshooting):
+If providing full schematics, ensure they are clean, readable, and well-organized (e.g., separate sheets for power, microcontroller, I/O, etc.).
+Clearly label all components, nets, and values.
+Include a Bill of Materials (BOM) if possible.
+4. Software Setup and Configuration
+4.1 Required Software:
+GRBLHAL Firmware: (Already on the board, but mention if updates are available).
+USB Driver: (If needed, provide link or instructions for Windows/macOS/Linux).
+G-code Sender Software: (e.g., UGS Platform, Candle, CNCjs, Openbuilds CONTROL).
+Provide recommendations and brief pros/cons of each.
+Links to download pages.
+(Optional) CAD/CAM Software recommendations.
+4.2 Initial Connection and Driver Installation:
+Step-by-step instructions for connecting the controller to the PC via USB.
+Instructions for installing the necessary USB drivers (if not automatically detected).
+How to identify the COM port assigned to the controller.
+4.3 Connecting with a G-code Sender:
+Instructions for configuring the G-code sender to connect to the correct COM port.
+Baud rate settings (usually 115200 for GRBLHAL).
+Verifying successful connection (e.g., GRBLHAL welcome message in console).
+4.4 GRBLHAL Configuration ($ settings):
+Explanation of GRBLHAL $ settings: What they are and why they are important.
+Essential Settings to Configure:
+$100, $101, $102, $103, $104, $105: Steps per mm for each axis. Provide clear instructions on how to calculate this. (e.g., motor steps/rev, microstepping, lead screw pitch, belt drive ratios).
+$110, $111, $112, $113, $114, $115: Max travel rate (mm/min).
+$120, $121, $122, $123, $124, $125: Acceleration (mm/s^2).
+$130, $131, $132, $133, $134, $135: Max travel limits (mm).
+$3: Direction port invert mask.
+$21: Hard limits enable.
+$22: Homing enable.
+$23: Homing direction invert mask.
+$24: Homing feed rate.
+$25: Homing seek rate.
+$26: Homing pull-off.
+$27: Homing switch debounce.
+$30: Max spindle RPM.
+$31: Min spindle RPM.
+$32: Laser mode enable (even if not primary, good to mention).
+$5: Limit pins invert.
+How to Change Settings:
+Using the G-code sender console (e.g., $100=80).
+Saving settings to EEPROM.
+Configuration Examples: Provide typical starter settings for common setups (e.g., lead screw, belt drive).
+4.5 Spindle Configuration:
+Detailing how $30 and $31 control the spindle.
+Explaining M3/M4/M5 G-codes for spindle control.
+How PWM duty cycle translates to RPM based on $30 and $31.
+Wiring examples for VFDs or external motor drivers.
+5. Advanced Topics and Troubleshooting
+5.1 Firmware Updating (Optional):
+If firmware updates are anticipated, provide clear instructions on how to flash new firmware to the STM32F4xx.
+Tools required (e.g., DFU programmer, STM32CubeProgrammer).
+DFU mode entry (if applicable).
+Link to firmware releases.
+5.2 Customizing GRBLHAL (For advanced users):
+Briefly mention that GRBLHAL is open-source and can be customized.
+Point to the GRBLHAL GitHub repository for source code.
+(Optional) Basic instructions on setting up a development environment (e.g., VS Code + PlatformIO).
+5.3 Common Issues and Solutions:
+"GRBL not found" / Connection issues:
+Incorrect COM port.
+Missing/corrupt USB drivers.
+Incorrect baud rate.
+Loose USB cable.
+Motors not moving / erratic movement:
+Incorrect wiring (Step/Dir/Enable, motor phases).
+Insufficient power to stepper drivers.
+Incorrect steps/mm setting.
+Loose connections.
+Motor current not set on drivers.
+Limit switch errors:
+Incorrect wiring (NO/NC).
+Incorrect $5 setting.
+Noise on limit switch lines.
+Misconfigured $21 (hard limits).
+Spindle not working:
+Incorrect wiring.
+Incorrect $30/$31 settings.
+M3/M4/M5 commands not sent or with S value 0.
+Power supply issues:
+Input voltage too low/high.
+Overcurrent on 12V/5V outputs.
+GRBLHAL "Alarm" states:
+Explanation of common alarm codes and how to resolve them.
+$X to exit alarm state.
+G-code errors:
+Syntax errors in G-code.
+Exceeding machine limits.
+5.4 Maintenance:
+Keeping connections clean and secure.
+Avoiding dust/debris buildup.
+6. Appendix
+6.1 G-code Quick Reference:
+Common G-codes used with GRBLHAL (G0, G1, G2, G3, G17, G20, G21, G28, G30, G53, G90, G91, M3, M4, M5, M7, M8, M9, M30, M100-M103 (for axis homing/parking, etc.)).
+Brief explanation of each.
+6.2 GRBLHAL Settings Quick Reference:
+A table listing all GRBLHAL $settings and their default values, with a brief description.
+6.3 Support and Resources:
+Where users can get help (your website, forum, email).
+Links to relevant GRBLHAL community resources.
+Links to recommended CAD/CAM software.
+Links to reputable suppliers for CNC components (stepper drivers, motors, power supplies).
+6.4 Glossary of Terms:
+Define common CNC and GRBLHAL terms (e.g., G-code, CAM, CAD, Homing, Soft Limits, Hard Limits, Stepper Driver, Microstepping, Spindle, VFD, Jogging, etc.).
+6.5 Revision History:
+Track changes and updates to the documentation.
+Tips for Writing Effective Documentation:
+
+Clarity and Simplicity: Use clear, concise language. Avoid jargon where possible, or explain it thoroughly.
+Step-by-Step Instructions: Break down complex procedures into small, manageable steps.
+Visual Aids: Use plenty of diagrams, screenshots, and photos. "A picture is worth a thousand words."
+Consistency: Maintain consistent terminology and formatting throughout the document.
+Audience Awareness: Write for your target audience. Assume some basic technical literacy, but don't assume expert knowledge.
+Index/Table of Contents: Make it easy for users to find the information they need.
+PDF Format: Provide the documentation in a readily accessible format like PDF.
+Versioning: Always include a version number and date so users know if they have the latest information.
+By following this comprehensive outline, you'll be able to create user documentation that is clear, helpful, and empowers users to get the most out of your GRBLHAL STM32F4xx controller. Good luck!

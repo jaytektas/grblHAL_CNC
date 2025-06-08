@@ -1885,6 +1885,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2297"
+			(at 96.52 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9c72eac5-8473-4a84-88e0-7b5522729a15")
 		)
@@ -2064,6 +2073,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C14663"
+			(at 121.92 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5c23a513-bd3e-4a8a-a3f8-f7f69b07374e")
 		)
@@ -2133,6 +2151,15 @@
 			)
 		)
 		(property "#" "C456014"
+			(at 86.36 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C456014"
 			(at 86.36 53.34 0)
 			(effects
 				(font
@@ -2267,6 +2294,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C15999"
+			(at 109.22 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9bc73b53-5afb-43c4-acd2-a0126bca17be")
 		)
@@ -2386,6 +2422,15 @@
 			)
 		)
 		(property "Tape" "8x4"
+			(at 96.52 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C21190"
 			(at 96.52 69.85 0)
 			(effects
 				(font

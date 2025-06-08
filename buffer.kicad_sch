@@ -1001,6 +1001,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C25804"
+			(at 140.97 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b88e3b0c-1e5d-430a-8138-764172ddaa00")
 		)
@@ -1152,6 +1161,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C25804"
+			(at 140.97 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ba727b54-9bba-4ec5-9561-32736842ee0d")
 		)
@@ -1293,6 +1311,15 @@
 			)
 		)
 		(property "Tape" ""
+			(at 167.64 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C14461"
 			(at 167.64 111.76 0)
 			(effects
 				(font
@@ -1668,6 +1695,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C14461"
+			(at 58.42 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "a07d5a4e-4179-4c8c-9420-61014de07453")
 		)
@@ -1931,6 +1967,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C14461"
+			(at 167.64 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "90aca45c-b235-4c80-b361-6f0bffd64b2b")
 		)
@@ -2087,6 +2132,15 @@
 			)
 		)
 		(property "Tape" "8x4"
+			(at 45.72 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C14663"
 			(at 45.72 45.72 0)
 			(effects
 				(font

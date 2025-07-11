@@ -56163,7 +56163,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2304140030_Amphenol-ICC-20021121-00010C4LF_C150517.pdf?_gl=1*4jlz8i*_ga*MTA5OTM3NDU3Ny4xNzE3ODEwNDk4*_ga_98M84MKSZH*MTcxODA3ODI1MC4xOS4xLjE3MTgwODg4ODUuNjAuMC4w"
+		(property "Datasheet" "https://lcsc.com/datasheet/lcsc_datasheet_2410121701_Hanbo-Electronic-HB-PH9-12725PB2GOB_C6332249.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -56175,7 +56175,7 @@
 				)
 			)
 		)
-		(property "Description" "Brick nogging 10P 1.27mm 双排 Black Copper Alloy 2x5P 1.27mm SMD,P=1.27mm Pin Headers ROHS"
+		(property "Description" "Gold 250V 1A Pin Header 1mm 10P 4mm -40℃~+105℃ 1.27mm Brass 2 Black 1.27mm 2x5P SMD,P=1.27mm Pin Headers ROHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -56187,7 +56187,7 @@
 				)
 			)
 		)
-		(property "#" "C150517"
+		(property "#" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -56252,7 +56252,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C150517"
+		(property "LCSC" "C6332249"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")

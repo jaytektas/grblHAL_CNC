@@ -2044,7 +2044,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 148.59) (xy 109.22 148.59)
+			(xy 83.82 148.59) (xy 109.22 148.59)
 		)
 		(stroke
 			(width 0)
@@ -2444,7 +2444,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 146.05) (xy 109.22 146.05)
+			(xy 83.82 146.05) (xy 109.22 146.05)
 		)
 		(stroke
 			(width 0)
@@ -2614,7 +2614,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 151.13) (xy 109.22 151.13)
+			(xy 83.82 151.13) (xy 109.22 151.13)
 		)
 		(stroke
 			(width 0)
@@ -2654,7 +2654,7 @@
 	)
 	(wire
 		(pts
-			(xy 302.26 74.93) (xy 331.47 74.93)
+			(xy 302.26 74.93) (xy 323.85 74.93)
 		)
 		(stroke
 			(width 0)
@@ -2714,7 +2714,7 @@
 	)
 	(wire
 		(pts
-			(xy 302.26 77.47) (xy 331.47 77.47)
+			(xy 302.26 77.47) (xy 323.85 77.47)
 		)
 		(stroke
 			(width 0)
@@ -2814,7 +2814,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 153.67) (xy 109.22 153.67)
+			(xy 83.82 153.67) (xy 109.22 153.67)
 		)
 		(stroke
 			(width 0)
@@ -2874,7 +2874,7 @@
 	)
 	(wire
 		(pts
-			(xy 302.26 80.01) (xy 331.47 80.01)
+			(xy 302.26 80.01) (xy 323.85 80.01)
 		)
 		(stroke
 			(width 0)
@@ -3334,7 +3334,7 @@
 	)
 	(wire
 		(pts
-			(xy 302.26 82.55) (xy 331.47 82.55)
+			(xy 302.26 82.55) (xy 323.85 82.55)
 		)
 		(stroke
 			(width 0)
@@ -3834,7 +3834,7 @@
 	)
 	(wire
 		(pts
-			(xy 302.26 72.39) (xy 331.47 72.39)
+			(xy 302.26 72.39) (xy 323.85 72.39)
 		)
 		(stroke
 			(width 0)
@@ -3904,7 +3904,7 @@
 	)
 	(wire
 		(pts
-			(xy 302.26 69.85) (xy 331.47 69.85)
+			(xy 302.26 69.85) (xy 323.85 69.85)
 		)
 		(stroke
 			(width 0)
@@ -4013,7 +4013,7 @@
 		(uuid "fb16007b-06b0-4b9b-9db3-ae7dae7666a2")
 	)
 	(label "AUX_INPUT_0"
-		(at 82.55 146.05 0)
+		(at 88.9 146.05 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4143,7 +4143,7 @@
 		(uuid "21a2ad70-c837-491c-9a95-098541c3b784")
 	)
 	(label "DIR_Z"
-		(at 322.58 80.01 0)
+		(at 314.96 80.01 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4173,7 +4173,7 @@
 		(uuid "2b0701a5-de33-476b-8d4d-cbfc3de1d45a")
 	)
 	(label "AUX_INPUT_4"
-		(at 82.55 156.21 0)
+		(at 88.9 156.21 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4223,7 +4223,7 @@
 		(uuid "3a6bffce-8c28-4d7b-9708-6481551bea8b")
 	)
 	(label "DIR_X"
-		(at 322.58 69.85 0)
+		(at 314.96 69.85 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4243,7 +4243,7 @@
 		(uuid "3cc55bdf-c9eb-49b7-97ce-08a9d7642399")
 	)
 	(label "AUX_INPUT_5"
-		(at 82.55 158.75 0)
+		(at 88.9 158.75 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4293,7 +4293,7 @@
 		(uuid "459d4209-6d5d-41a5-bb33-98ca97a003a0")
 	)
 	(label "STP_Y"
-		(at 322.58 77.47 0)
+		(at 314.96 77.47 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4323,7 +4323,7 @@
 		(uuid "5c7b82b9-94dd-4e96-8e27-69de152ccb66")
 	)
 	(label "AUX_INPUT_6"
-		(at 82.55 161.29 0)
+		(at 88.9 161.29 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4343,7 +4343,7 @@
 		(uuid "5ed2d085-9fb8-4f69-9465-b21f9dbc3d10")
 	)
 	(label "STP_Z"
-		(at 322.58 82.55 0)
+		(at 314.96 82.55 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4403,7 +4403,7 @@
 		(uuid "6c1b7c91-5819-46f6-a369-444069a99da6")
 	)
 	(label "STP_X"
-		(at 322.58 72.39 0)
+		(at 314.96 72.39 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4413,7 +4413,7 @@
 		(uuid "6f5b9346-e733-42f8-9356-4fd2f31a1b42")
 	)
 	(label "AUX_INPUT_2"
-		(at 82.55 151.13 0)
+		(at 88.9 151.13 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4463,7 +4463,7 @@
 		(uuid "871f3f3b-69f2-4d05-8e4d-44f2f5581143")
 	)
 	(label "AUX_INPUT_7"
-		(at 82.55 163.83 0)
+		(at 88.9 163.83 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4563,7 +4563,7 @@
 		(uuid "a3f467a8-3574-4ae3-b82f-2c24bd1b6e73")
 	)
 	(label "AUX_INPUT_3"
-		(at 82.55 153.67 0)
+		(at 88.9 153.67 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4703,7 +4703,7 @@
 		(uuid "c6ea352b-86cc-4b44-a6af-a7ef122eced6")
 	)
 	(label "AUX_INPUT_1"
-		(at 82.55 148.59 0)
+		(at 88.9 148.59 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4733,7 +4733,7 @@
 		(uuid "c804d672-278d-4349-be43-038856cc8508")
 	)
 	(label "DIR_Y"
-		(at 322.58 74.93 0)
+		(at 314.96 74.93 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4953,6 +4953,294 @@
 		(uuid "f69e9329-da0f-4ebd-a1cb-df8592301031")
 	)
 	(symbol
+		(lib_id "Connector:Screw_Terminal_01x08")
+		(at 19.05 36.83 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom yes)
+		(on_board no)
+		(dnp no)
+		(uuid "0a997b58-ce95-41aa-a39c-60e7e7bd2f77")
+		(property "Reference" "J45"
+			(at 19.05 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Screw_Terminal_01x08"
+			(at 19.05 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 19.05 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/datasheet/lcsc_datasheet_1912251636_Ningbo-Kangnex-Elec-WJ15EDGRC-3-81-8P_C14235.pdf"
+			(at 19.05 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Right-Angle Pin -40℃~+105℃ 1 3.81mm 300V 8A 8 1x8P Board Side/Socket - Closed Through Hole,Right Angle,P=3.81mm Pluggable System Terminal Block ROHS"
+			(at 19.05 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 19.05 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "#" ""
+			(at 19.05 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 19.05 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Width" ""
+			(at 19.05 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Length" ""
+			(at 19.05 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tape" ""
+			(at 19.05 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C14235"
+			(at 19.05 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "7"
+			(uuid "f6be054e-21c4-434a-b0e8-81a78018dc91")
+		)
+		(pin "4"
+			(uuid "d338cf45-a41a-420b-bf4a-09aa8d25beca")
+		)
+		(pin "5"
+			(uuid "433ebbd6-b819-4a9f-ad86-b203f3f8e6ab")
+		)
+		(pin "2"
+			(uuid "f7481bf1-a190-4232-88f4-5e2f3ff16703")
+		)
+		(pin "6"
+			(uuid "e62c93cb-805e-4dee-b017-fb2a33810e77")
+		)
+		(pin "1"
+			(uuid "278a21fc-f330-4172-86dc-cbf962bad132")
+		)
+		(pin "3"
+			(uuid "01961f3b-6eee-4ead-bcbc-94b68faa673f")
+		)
+		(pin "8"
+			(uuid "9b03073f-0fc9-453e-a80c-f04fb19fde35")
+		)
+		(instances
+			(project "grblHAL"
+				(path "/cdd9c49a-90bc-413d-a8de-45f08eb8c971"
+					(reference "J45")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x04")
+		(at 364.49 118.11 180)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom yes)
+		(on_board no)
+		(dnp no)
+		(uuid "0cd102df-a093-4325-a11d-2220a5fa8035")
+		(property "Reference" "J55"
+			(at 361.95 118.1101 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 361.95 115.5701 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 364.49 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/datasheet/lcsc_datasheet_2304140030_Ningbo-Kangnex-Elec-WJ15EDGK-3-81-4P_C7244.pdf"
+			(at 364.49 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "-40℃~+105℃ 1.5 1 16~28 3.81mm 300V 8A 4 1x4P Male Plug P=3.81mm Pluggable System Terminal Block ROHS"
+			(at 364.49 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 364.49 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "#" ""
+			(at 364.49 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 364.49 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Width" ""
+			(at 364.49 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Length" ""
+			(at 364.49 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tape" ""
+			(at 364.49 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C7244"
+			(at 364.49 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "50c9c98c-5d51-429a-9b51-af56bc026d26")
+		)
+		(pin "2"
+			(uuid "361f5f9c-1d77-4f5b-9a74-159a9c58e0cb")
+		)
+		(pin "1"
+			(uuid "1cfdc911-19e5-4073-8017-5671b4401f14")
+		)
+		(pin "4"
+			(uuid "4acd3889-a69e-417a-a960-5f032c04ac53")
+		)
+		(instances
+			(project "grblHAL"
+				(path "/cdd9c49a-90bc-413d-a8de-45f08eb8c971"
+					(reference "J55")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+5V")
 		(at 33.02 58.42 0)
 		(unit 1)
@@ -5013,6 +5301,156 @@
 			(project "grblHAL"
 				(path "/cdd9c49a-90bc-413d-a8de-45f08eb8c971"
 					(reference "#PWR01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x08")
+		(at 318.77 147.32 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom yes)
+		(on_board no)
+		(dnp no)
+		(uuid "13a4c782-31ef-457d-8e90-8135b63cbbba")
+		(property "Reference" "J48"
+			(at 318.77 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Screw_Terminal_01x08"
+			(at 318.77 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 318.77 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/datasheet/lcsc_datasheet_1912251636_Ningbo-Kangnex-Elec-WJ15EDGRC-3-81-8P_C14235.pdf"
+			(at 318.77 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Right-Angle Pin -40℃~+105℃ 1 3.81mm 300V 8A 8 1x8P Board Side/Socket - Closed Through Hole,Right Angle,P=3.81mm Pluggable System Terminal Block ROHS"
+			(at 318.77 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 318.77 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "#" ""
+			(at 318.77 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 318.77 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Width" ""
+			(at 318.77 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Length" ""
+			(at 318.77 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tape" ""
+			(at 318.77 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C14235"
+			(at 318.77 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "7"
+			(uuid "9c261e07-d776-4bd1-95d7-5c51b9d04390")
+		)
+		(pin "4"
+			(uuid "e90c8c57-c1a3-4559-9a70-32fe6c0b9dcd")
+		)
+		(pin "5"
+			(uuid "a4bdf315-7c12-46d4-adf3-24c54d1ac60c")
+		)
+		(pin "2"
+			(uuid "8c0e6e12-a17b-44c4-8ed9-79ac09f78083")
+		)
+		(pin "6"
+			(uuid "f1cf5f9d-c69c-4102-b9f5-0140247aeb7e")
+		)
+		(pin "1"
+			(uuid "863dec19-1610-4e11-9575-8fea8d8166d8")
+		)
+		(pin "3"
+			(uuid "3524f8bc-9b0f-4477-ad08-ffe1d6e4ba8b")
+		)
+		(pin "8"
+			(uuid "7f06e4a8-4c5a-466a-9fc5-7a7dcce2cc0e")
+		)
+		(instances
+			(project "grblHAL"
+				(path "/cdd9c49a-90bc-413d-a8de-45f08eb8c971"
+					(reference "J48")
 					(unit 1)
 				)
 			)
@@ -5349,6 +5787,149 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Screw_Terminal_01x06")
+		(at 72.39 146.05 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom yes)
+		(on_board no)
+		(dnp no)
+		(uuid "2b03f658-c1e6-4bad-a628-09b3498d66a9")
+		(property "Reference" "J51"
+			(at 72.136 138.176 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 72.39 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 72.39 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/datasheet/lcsc_datasheet_1912251632_Ningbo-Kangnex-Elec-WJ15EDGK-3-81-6P_C7247.pdf"
+			(at 72.39 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "-40℃~+105℃ 1.5 1 16~28 3.81mm 300V 8A 6 1x6P Male Plug P=3.81mm Pluggable System Terminal Block ROHS"
+			(at 72.39 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 72.39 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "#" ""
+			(at 72.39 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 72.39 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Width" ""
+			(at 72.39 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Length" ""
+			(at 72.39 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tape" ""
+			(at 72.39 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C7247"
+			(at 72.39 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "5"
+			(uuid "1dedd405-4d98-44cf-883b-548a0ade8a40")
+		)
+		(pin "4"
+			(uuid "6b3c8aa0-8b2e-48ee-8f74-8d6fba0b4f40")
+		)
+		(pin "6"
+			(uuid "0cd4a303-5077-4b73-bdb4-3e0912ece66e")
+		)
+		(pin "2"
+			(uuid "493e6671-e701-4ac1-8a05-5f7e9bd1ed24")
+		)
+		(pin "1"
+			(uuid "d8629678-079a-4341-8eba-4f5a114df9fc")
+		)
+		(pin "3"
+			(uuid "5601bad3-775f-4383-808c-97498ad8f829")
+		)
+		(instances
+			(project "grblHAL"
+				(path "/cdd9c49a-90bc-413d-a8de-45f08eb8c971"
+					(reference "J51")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 363.22 27.94 0)
 		(unit 1)
@@ -5415,8 +5996,158 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Screw_Terminal_01x08")
+		(at 360.68 90.17 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom yes)
+		(on_board no)
+		(dnp no)
+		(uuid "356694d4-463d-4e43-a78b-170680a3792f")
+		(property "Reference" "J49"
+			(at 360.68 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Screw_Terminal_01x08"
+			(at 360.68 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 360.68 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/datasheet/lcsc_datasheet_1912251636_Ningbo-Kangnex-Elec-WJ15EDGRC-3-81-8P_C14235.pdf"
+			(at 360.68 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Right-Angle Pin -40℃~+105℃ 1 3.81mm 300V 8A 8 1x8P Board Side/Socket - Closed Through Hole,Right Angle,P=3.81mm Pluggable System Terminal Block ROHS"
+			(at 360.68 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 360.68 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "#" ""
+			(at 360.68 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 360.68 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Width" ""
+			(at 360.68 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Length" ""
+			(at 360.68 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tape" ""
+			(at 360.68 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C14235"
+			(at 360.68 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "7"
+			(uuid "fbbc4bb8-e554-4076-89ee-a51a52fc3292")
+		)
+		(pin "4"
+			(uuid "fc98b3f3-716d-46b3-9473-2f2e729052b3")
+		)
+		(pin "5"
+			(uuid "e1cebfb0-8ab8-4a35-8216-fd877677359b")
+		)
+		(pin "2"
+			(uuid "b344e869-752e-4e07-b5ed-e5867a9febaa")
+		)
+		(pin "6"
+			(uuid "aa2b9c6e-3842-40ea-8281-da311f0c7128")
+		)
+		(pin "1"
+			(uuid "fd5d33e3-4bf5-4417-8f06-ab6f7cd1ea70")
+		)
+		(pin "3"
+			(uuid "2594c6ce-b37e-4658-ba9b-2412e61a1eac")
+		)
+		(pin "8"
+			(uuid "8a03259c-1ce0-4793-9d9b-1e6f399e996f")
+		)
+		(instances
+			(project "grblHAL"
+				(path "/cdd9c49a-90bc-413d-a8de-45f08eb8c971"
+					(reference "J49")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+5V")
-		(at 77.47 140.97 0)
+		(at 83.82 140.97 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5425,7 +6156,7 @@
 		(fields_autoplaced yes)
 		(uuid "3e6fae32-6e06-4ad7-b5b2-9c5bc88759e3")
 		(property "Reference" "#PWR07"
-			(at 77.47 144.78 0)
+			(at 83.82 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5434,7 +6165,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 77.47 135.89 0)
+			(at 83.82 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5442,7 +6173,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 77.47 140.97 0)
+			(at 83.82 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5451,7 +6182,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 77.47 140.97 0)
+			(at 83.82 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5460,7 +6191,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 77.47 140.97 0)
+			(at 83.82 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5541,6 +6272,155 @@
 			(project "grblHAL"
 				(path "/cdd9c49a-90bc-413d-a8de-45f08eb8c971"
 					(reference "#PWR03")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x08")
+		(at 19.05 97.79 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom yes)
+		(on_board no)
+		(dnp no)
+		(uuid "4bb9d0e2-fcb6-4650-aeac-03eabc44a843")
+		(property "Reference" "J47"
+			(at 19.05 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Screw_Terminal_01x08"
+			(at 19.05 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 19.05 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/datasheet/lcsc_datasheet_1912251636_Ningbo-Kangnex-Elec-WJ15EDGRC-3-81-8P_C14235.pdf"
+			(at 19.05 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Right-Angle Pin -40℃~+105℃ 1 3.81mm 300V 8A 8 1x8P Board Side/Socket - Closed Through Hole,Right Angle,P=3.81mm Pluggable System Terminal Block ROHS"
+			(at 19.05 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 19.05 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "#" ""
+			(at 19.05 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 19.05 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Width" ""
+			(at 19.05 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Length" ""
+			(at 19.05 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tape" ""
+			(at 19.05 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C14235"
+			(at 19.05 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "7"
+			(uuid "20317eab-52fe-4692-803b-488f876d7b13")
+		)
+		(pin "4"
+			(uuid "d5aba5cf-ce79-4f4c-80e5-542e704b709e")
+		)
+		(pin "5"
+			(uuid "c58b1afe-c92b-4db7-a59c-1fe5eb73a4c6")
+		)
+		(pin "2"
+			(uuid "9a23a62c-97cb-425b-8292-f75d29f32b16")
+		)
+		(pin "6"
+			(uuid "55fb5e5b-b45a-4479-b5fe-6c5b225d2377")
+		)
+		(pin "1"
+			(uuid "d3b3e780-fc2d-4bfa-a9fc-468912ab727c")
+		)
+		(pin "3"
+			(uuid "dbc2bf72-cd28-43aa-ade8-7ddccaf66e5f")
+		)
+		(pin "8"
+			(uuid "078867c0-4e4c-4c17-9ec3-8416f42ff49f")
+		)
+		(instances
+			(project "grblHAL"
+				(path "/cdd9c49a-90bc-413d-a8de-45f08eb8c971"
+					(reference "J47")
 					(unit 1)
 				)
 			)
@@ -5791,6 +6671,139 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Screw_Terminal_01x02")
+		(at 335.28 105.41 180)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom yes)
+		(on_board no)
+		(dnp no)
+		(uuid "6f88063c-91f0-42b5-9ba5-ed7dec618a41")
+		(property "Reference" "J53"
+			(at 337.82 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 332.74 102.8701 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 335.28 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/datasheet/lcsc_datasheet_1912251636_Ningbo-Kangnex-Elec-WJ15EDGK-3-81-2P_C8466.pdf"
+			(at 335.28 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "-40℃~+105℃ 1.5 1 16~28 3.81mm 300V 8A 2 1x2P Male Plug P=3.81mm Pluggable System Terminal Block ROHS"
+			(at 335.28 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 335.28 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "#" ""
+			(at 335.28 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 335.28 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Width" ""
+			(at 335.28 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Length" ""
+			(at 335.28 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tape" ""
+			(at 335.28 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C8466"
+			(at 335.28 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "0d524ba8-fc68-4b46-b155-72b494a2242e")
+		)
+		(pin "1"
+			(uuid "614bb65a-ef86-4f7b-bd85-f0ee7679aeb6")
+		)
+		(instances
+			(project "grblHAL"
+				(path "/cdd9c49a-90bc-413d-a8de-45f08eb8c971"
+					(reference "J53")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 378.46 27.94 0)
 		(unit 1)
@@ -5969,6 +6982,155 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Screw_Terminal_01x08")
+		(at 19.05 66.04 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom yes)
+		(on_board no)
+		(dnp no)
+		(uuid "78eb01e0-b548-4674-8904-0d4405fa035d")
+		(property "Reference" "J46"
+			(at 19.05 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Screw_Terminal_01x08"
+			(at 19.05 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 19.05 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/datasheet/lcsc_datasheet_1912251636_Ningbo-Kangnex-Elec-WJ15EDGRC-3-81-8P_C14235.pdf"
+			(at 19.05 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Right-Angle Pin -40℃~+105℃ 1 3.81mm 300V 8A 8 1x8P Board Side/Socket - Closed Through Hole,Right Angle,P=3.81mm Pluggable System Terminal Block ROHS"
+			(at 19.05 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 19.05 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "#" ""
+			(at 19.05 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 19.05 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Width" ""
+			(at 19.05 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Length" ""
+			(at 19.05 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tape" ""
+			(at 19.05 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C14235"
+			(at 19.05 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "7"
+			(uuid "f6fa9e6d-3f12-4028-8573-2a3bfb7bf303")
+		)
+		(pin "4"
+			(uuid "00c05373-8e5c-4d43-9d82-e393e88d9571")
+		)
+		(pin "5"
+			(uuid "35dbf55a-2184-454e-afac-27801ce60148")
+		)
+		(pin "2"
+			(uuid "a4dc4614-82bd-4cb6-a6bf-0d0115ff685d")
+		)
+		(pin "6"
+			(uuid "290d00d0-da85-4fbb-a590-9fa1f73beaf2")
+		)
+		(pin "1"
+			(uuid "36073bb5-2a8c-42ca-9f5d-f06159b7d707")
+		)
+		(pin "3"
+			(uuid "0b67939f-d38d-44c8-ad29-f19c98875f2f")
+		)
+		(pin "8"
+			(uuid "0b7731a1-236b-4bf8-aee4-c522faad4657")
+		)
+		(instances
+			(project "grblHAL"
+				(path "/cdd9c49a-90bc-413d-a8de-45f08eb8c971"
+					(reference "J46")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:Screw_Terminal_01x06")
 		(at 57.15 156.21 0)
 		(mirror y)
@@ -5979,7 +7141,7 @@
 		(dnp no)
 		(uuid "7e9a1c23-9abe-412e-bea7-08f2e2c47e70")
 		(property "Reference" "J4"
-			(at 52.07 151.13 0)
+			(at 56.642 147.574 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6326,6 +7488,149 @@
 			(project "grblHAL"
 				(path "/cdd9c49a-90bc-413d-a8de-45f08eb8c971"
 					(reference "FID3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x06")
+		(at 50.8 156.21 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom yes)
+		(on_board no)
+		(dnp no)
+		(uuid "82ee3cdc-1f8a-4583-9230-6d9aedc5bb07")
+		(property "Reference" "J52"
+			(at 50.546 148.336 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 50.8 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 50.8 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/datasheet/lcsc_datasheet_1912251632_Ningbo-Kangnex-Elec-WJ15EDGK-3-81-6P_C7247.pdf"
+			(at 50.8 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "-40℃~+105℃ 1.5 1 16~28 3.81mm 300V 8A 6 1x6P Male Plug P=3.81mm Pluggable System Terminal Block ROHS"
+			(at 50.8 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 50.8 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "#" ""
+			(at 50.8 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 50.8 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Width" ""
+			(at 50.8 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Length" ""
+			(at 50.8 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tape" ""
+			(at 50.8 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C7247"
+			(at 50.8 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "5"
+			(uuid "a47aea02-4d37-4e0d-ad6c-63fcefccaf62")
+		)
+		(pin "4"
+			(uuid "f8608e41-fde8-4349-b662-8c274878f563")
+		)
+		(pin "6"
+			(uuid "40ef03f5-6582-4db9-ab01-15a76b0a77a5")
+		)
+		(pin "2"
+			(uuid "98df0a18-adea-4866-ac09-7617d1074966")
+		)
+		(pin "1"
+			(uuid "986282a1-2963-4116-ad84-64ce304240f7")
+		)
+		(pin "3"
+			(uuid "bdece2dc-e858-48c6-a4f4-addd0057ab2b")
+		)
+		(instances
+			(project "grblHAL"
+				(path "/cdd9c49a-90bc-413d-a8de-45f08eb8c971"
+					(reference "J52")
 					(unit 1)
 				)
 			)
@@ -6725,7 +8030,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 77.47 143.51 90)
+		(at 83.82 143.51 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6734,7 +8039,7 @@
 		(fields_autoplaced yes)
 		(uuid "a196e8ee-ae00-4f33-a44e-032ce603a5c6")
 		(property "Reference" "#PWR08"
-			(at 83.82 143.51 0)
+			(at 90.17 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6743,7 +8048,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 82.55 143.51 0)
+			(at 88.9 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6752,7 +8057,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 77.47 143.51 0)
+			(at 83.82 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6761,7 +8066,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 77.47 143.51 0)
+			(at 83.82 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6770,7 +8075,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 77.47 143.51 0)
+			(at 83.82 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6779,7 +8084,7 @@
 			)
 		)
 		(property "#" ""
-			(at 77.47 143.51 0)
+			(at 83.82 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6788,7 +8093,7 @@
 			)
 		)
 		(property "Height" ""
-			(at 77.47 143.51 0)
+			(at 83.82 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6797,7 +8102,7 @@
 			)
 		)
 		(property "Width" ""
-			(at 77.47 143.51 0)
+			(at 83.82 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6806,7 +8111,7 @@
 			)
 		)
 		(property "Length" ""
-			(at 77.47 143.51 0)
+			(at 83.82 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6815,7 +8120,7 @@
 			)
 		)
 		(property "Tape" ""
-			(at 77.47 143.51 0)
+			(at 83.82 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7386,7 +8691,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 331.47 67.31 270)
+		(at 323.85 67.31 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7395,7 +8700,7 @@
 		(fields_autoplaced yes)
 		(uuid "c3ce10aa-fa73-4c4b-9cb1-2b680a4d7d4b")
 		(property "Reference" "#PWR010"
-			(at 325.12 67.31 0)
+			(at 317.5 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7404,7 +8709,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 326.39 67.31 0)
+			(at 318.77 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7413,7 +8718,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 331.47 67.31 0)
+			(at 323.85 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7422,7 +8727,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 331.47 67.31 0)
+			(at 323.85 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7431,7 +8736,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 331.47 67.31 0)
+			(at 323.85 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7440,7 +8745,7 @@
 			)
 		)
 		(property "#" ""
-			(at 331.47 67.31 0)
+			(at 323.85 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7449,7 +8754,7 @@
 			)
 		)
 		(property "Height" ""
-			(at 331.47 67.31 0)
+			(at 323.85 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7458,7 +8763,7 @@
 			)
 		)
 		(property "Width" ""
-			(at 331.47 67.31 0)
+			(at 323.85 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7467,7 +8772,7 @@
 			)
 		)
 		(property "Length" ""
-			(at 331.47 67.31 0)
+			(at 323.85 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7476,7 +8781,7 @@
 			)
 		)
 		(property "Tape" ""
-			(at 331.47 67.31 0)
+			(at 323.85 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7497,34 +8802,25 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Screw_Terminal_01x06")
-		(at 72.39 146.05 0)
+		(lib_id "Connector:Screw_Terminal_01x08")
+		(at 337.82 72.39 0)
 		(mirror y)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
-		(uuid "cbf8b600-db83-4237-b735-8597905f22dd")
-		(property "Reference" "J5"
-			(at 72.644 138.176 0)
+		(uuid "ca915c0e-9e5c-4ceb-a715-24c334ac1771")
+		(property "Reference" "J50"
+			(at 337.82 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "Screw_Terminal_01x06"
-			(at 72.39 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "openPNP:CONN-TH_WJ15EDGRC-3.81-6P"
-			(at 72.39 146.05 0)
+		(property "Value" "Screw_Terminal_01x08"
+			(at 337.82 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7532,8 +8828,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1912251632_Ningbo-Kangnex-Elec-WJ15EDGRC-3-81-6P_C7246.pdf?_gl=1*ku9miw*_ga*MTA5OTM3NDU3Ny4xNzE3ODEwNDk4*_ga_98M84MKSZH*MTcxODA3ODI1MC4xOS4xLjE3MTgwODU3MjcuNjAuMC4w"
-			(at 72.39 146.05 0)
+		(property "Footprint" ""
+			(at 337.82 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7541,8 +8837,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "6 Bend 1 3.81mm 1x6P Green Board Edge/Receptacle-Close Push-Pull,P=3.81mm Pluggable System Terminal Block ROHS"
-			(at 72.39 146.05 0)
+		(property "Datasheet" "https://lcsc.com/datasheet/lcsc_datasheet_1912251636_Ningbo-Kangnex-Elec-WJ15EDGRC-3-81-8P_C14235.pdf"
+			(at 337.82 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7550,8 +8846,8 @@
 				(hide yes)
 			)
 		)
-		(property "Notes" "matching push in block is WJ15EDGK-3.81-6P"
-			(at 72.39 146.05 0)
+		(property "Description" "Right-Angle Pin -40℃~+105℃ 1 3.81mm 300V 8A 8 1x8P Board Side/Socket - Closed Through Hole,Right Angle,P=3.81mm Pluggable System Terminal Block ROHS"
+			(at 337.82 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7559,8 +8855,17 @@
 				(hide yes)
 			)
 		)
-		(property "#" "C7246"
-			(at 72.39 146.05 0)
+		(property "Notes" ""
+			(at 337.82 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "#" ""
+			(at 337.82 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7569,7 +8874,7 @@
 			)
 		)
 		(property "Height" ""
-			(at 72.39 146.05 0)
+			(at 337.82 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7578,7 +8883,7 @@
 			)
 		)
 		(property "Width" ""
-			(at 72.39 146.05 0)
+			(at 337.82 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7587,7 +8892,7 @@
 			)
 		)
 		(property "Length" ""
-			(at 72.39 146.05 0)
+			(at 337.82 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7596,7 +8901,157 @@
 			)
 		)
 		(property "Tape" ""
-			(at 72.39 146.05 0)
+			(at 337.82 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C14235"
+			(at 337.82 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "7"
+			(uuid "066fcf55-e527-405a-bf94-8772a87285c5")
+		)
+		(pin "4"
+			(uuid "d4afae0b-79ab-4e7c-b057-2bfe4fe287f6")
+		)
+		(pin "5"
+			(uuid "03746709-8247-4f1d-bd7c-67e41625ecb3")
+		)
+		(pin "2"
+			(uuid "83e06cff-2528-49e6-b8e6-95217da45e13")
+		)
+		(pin "6"
+			(uuid "5e977599-8bb5-405c-a123-f967ede7a914")
+		)
+		(pin "1"
+			(uuid "359bee35-64fd-4213-a14d-ebfe715d567b")
+		)
+		(pin "3"
+			(uuid "53e60f60-bb33-4e30-9ce8-8f46f4979d09")
+		)
+		(pin "8"
+			(uuid "5399e206-392d-459e-a061-77990ce25c00")
+		)
+		(instances
+			(project "grblHAL"
+				(path "/cdd9c49a-90bc-413d-a8de-45f08eb8c971"
+					(reference "J50")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x06")
+		(at 78.74 146.05 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "cbf8b600-db83-4237-b735-8597905f22dd")
+		(property "Reference" "J5"
+			(at 78.994 138.176 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Screw_Terminal_01x06"
+			(at 78.74 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "openPNP:CONN-TH_WJ15EDGRC-3.81-6P"
+			(at 78.74 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1912251632_Ningbo-Kangnex-Elec-WJ15EDGRC-3-81-6P_C7246.pdf?_gl=1*ku9miw*_ga*MTA5OTM3NDU3Ny4xNzE3ODEwNDk4*_ga_98M84MKSZH*MTcxODA3ODI1MC4xOS4xLjE3MTgwODU3MjcuNjAuMC4w"
+			(at 78.74 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "6 Bend 1 3.81mm 1x6P Green Board Edge/Receptacle-Close Push-Pull,P=3.81mm Pluggable System Terminal Block ROHS"
+			(at 78.74 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" "matching push in block is WJ15EDGK-3.81-6P"
+			(at 78.74 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "#" "C7246"
+			(at 78.74 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 78.74 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Width" ""
+			(at 78.74 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Length" ""
+			(at 78.74 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tape" ""
+			(at 78.74 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7605,7 +9060,7 @@
 			)
 		)
 		(property "LCSC" "C7246"
-			(at 72.39 146.05 0)
+			(at 78.74 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7776,7 +9231,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 331.47 64.77 0)
+		(at 323.85 64.77 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7785,7 +9240,7 @@
 		(fields_autoplaced yes)
 		(uuid "da0ef518-ecf0-4411-8d14-cce1640ce926")
 		(property "Reference" "#PWR09"
-			(at 331.47 68.58 0)
+			(at 323.85 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7794,7 +9249,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 331.47 59.69 0)
+			(at 323.85 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7802,7 +9257,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 331.47 64.77 0)
+			(at 323.85 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7811,7 +9266,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 331.47 64.77 0)
+			(at 323.85 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7820,7 +9275,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 331.47 64.77 0)
+			(at 323.85 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7975,6 +9430,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "openPNP:CONN-TH_WJ15EDGRC-3.81-4P"
@@ -8151,6 +9607,139 @@
 			(project "grblHAL"
 				(path "/cdd9c49a-90bc-413d-a8de-45f08eb8c971"
 					(reference "H4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x02")
+		(at 364.49 125.73 180)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom yes)
+		(on_board no)
+		(dnp no)
+		(uuid "e6bcf617-8852-4833-a754-d8470c9814a9")
+		(property "Reference" "J54"
+			(at 367.03 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 361.95 123.1901 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 364.49 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/datasheet/lcsc_datasheet_1912251636_Ningbo-Kangnex-Elec-WJ15EDGK-3-81-2P_C8466.pdf"
+			(at 364.49 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "-40℃~+105℃ 1.5 1 16~28 3.81mm 300V 8A 2 1x2P Male Plug P=3.81mm Pluggable System Terminal Block ROHS"
+			(at 364.49 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 364.49 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "#" ""
+			(at 364.49 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 364.49 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Width" ""
+			(at 364.49 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Length" ""
+			(at 364.49 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tape" ""
+			(at 364.49 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C8466"
+			(at 364.49 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "d3866eac-fc13-4e8c-91d6-198c0cea0f30")
+		)
+		(pin "1"
+			(uuid "72e764bc-ed24-4ec0-b7f2-3ddafbadfe27")
+		)
+		(instances
+			(project "grblHAL"
+				(path "/cdd9c49a-90bc-413d-a8de-45f08eb8c971"
+					(reference "J54")
 					(unit 1)
 				)
 			)
@@ -8360,7 +9949,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x08")
-		(at 336.55 74.93 0)
+		(at 328.93 74.93 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8369,7 +9958,7 @@
 		(dnp no)
 		(uuid "f2b27d23-7a70-40cd-9fb3-f68a14df7a71")
 		(property "Reference" "J9"
-			(at 339.09 74.9301 0)
+			(at 331.47 74.9301 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8378,7 +9967,7 @@
 			)
 		)
 		(property "Value" "Screw_Terminal_01x08"
-			(at 339.09 72.3901 0)
+			(at 331.47 72.3901 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8388,7 +9977,7 @@
 			)
 		)
 		(property "Footprint" "openPNP:CONN-TH_8P-P3.81_WJ15EDGRC-3.81-8P"
-			(at 336.55 74.93 0)
+			(at 328.93 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8397,7 +9986,7 @@
 			)
 		)
 		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1912251636_Ningbo-Kangnex-Elec-WJ15EDGRC-3-81-8P_C14235.pdf?_gl=1*ocebmd*_ga*MTA5OTM3NDU3Ny4xNzE3ODEwNDk4*_ga_98M84MKSZH*MTcxODA3ODI1MC4xOS4xLjE3MTgwODU2NDYuNDcuMC4w"
-			(at 336.55 74.93 0)
+			(at 328.93 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8406,7 +9995,7 @@
 			)
 		)
 		(property "Description" "8 Bend 1 3.81mm 1x8P Green Board Edge/Receptacle-Close Push-Pull,P=3.81mm Pluggable System Terminal Block ROHS"
-			(at 336.55 74.93 0)
+			(at 328.93 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8415,7 +10004,7 @@
 			)
 		)
 		(property "Notes" "matching push in block is WJ15EDGK-3.81-8P"
-			(at 336.55 74.93 0)
+			(at 328.93 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8424,7 +10013,7 @@
 			)
 		)
 		(property "#" "C14235"
-			(at 336.55 74.93 0)
+			(at 328.93 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8433,7 +10022,7 @@
 			)
 		)
 		(property "Height" ""
-			(at 336.55 74.93 0)
+			(at 328.93 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8442,7 +10031,7 @@
 			)
 		)
 		(property "Width" ""
-			(at 336.55 74.93 0)
+			(at 328.93 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8451,7 +10040,7 @@
 			)
 		)
 		(property "Length" ""
-			(at 336.55 74.93 0)
+			(at 328.93 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8460,7 +10049,7 @@
 			)
 		)
 		(property "Tape" ""
-			(at 336.55 74.93 0)
+			(at 328.93 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8469,7 +10058,7 @@
 			)
 		)
 		(property "LCSC" "C14235"
-			(at 336.55 74.93 0)
+			(at 328.93 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8564,7 +10153,7 @@
 				(hide yes)
 			)
 		)
-		(property "Notes" "matching push in block is WJ15EDGK-3.81-8P"
+		(property "Notes" "matching push in block is #C14234 WJ15EDGK-3.81-8P "
 			(at 27.94 36.83 0)
 			(effects
 				(font

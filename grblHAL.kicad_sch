@@ -1831,6 +1831,12 @@
 		(uuid "9050ee01-15ff-4b8f-961c-e919704ba0f0")
 	)
 	(junction
+		(at 307.34 113.03)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5522684d-5055-45e5-be76-e2a718476522")
+	)
+	(junction
 		(at 264.16 102.87)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1995,6 +2001,16 @@
 			(type default)
 		)
 		(uuid "11ae685e-5c7e-4628-b0a6-c31813ac79af")
+	)
+	(wire
+		(pts
+			(xy 307.34 113.03) (xy 311.15 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1206b562-29bc-4448-856e-c5da46e2e01a")
 	)
 	(wire
 		(pts
@@ -2238,7 +2254,7 @@
 	)
 	(wire
 		(pts
-			(xy 302.26 113.03) (xy 311.15 113.03)
+			(xy 302.26 113.03) (xy 307.34 113.03)
 		)
 		(stroke
 			(width 0)
@@ -2455,6 +2471,16 @@
 			(type default)
 		)
 		(uuid "556db9d3-27dc-4c93-beed-ba51d2ed86f1")
+	)
+	(wire
+		(pts
+			(xy 259.08 109.22) (xy 307.34 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "573e08f8-bc1e-4ab6-83dd-9b145bd2fb3c")
 	)
 	(wire
 		(pts
@@ -3528,6 +3554,16 @@
 	)
 	(wire
 		(pts
+			(xy 307.34 109.22) (xy 307.34 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c6d4c994-bba8-4e7f-9876-a5bf7392c6f4")
+	)
+	(wire
+		(pts
 			(xy 146.05 74.93) (xy 147.32 74.93)
 		)
 		(stroke
@@ -3645,6 +3681,16 @@
 			(type default)
 		)
 		(uuid "d7d85580-0578-43db-8df7-854fd65597aa")
+	)
+	(wire
+		(pts
+			(xy 259.08 120.65) (xy 259.08 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d8b8b485-ae2c-4d91-91fa-1442fde9493a")
 	)
 	(wire
 		(pts
@@ -4246,16 +4292,6 @@
 		)
 		(uuid "459d4209-6d5d-41a5-bb33-98ca97a003a0")
 	)
-	(label "PWM"
-		(at 261.62 120.65 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "45e1a4ff-c352-40c0-b5df-183ea2758374")
-	)
 	(label "STP_Y"
 		(at 322.58 77.47 0)
 		(effects
@@ -4395,16 +4431,6 @@
 			(justify left bottom)
 		)
 		(uuid "712463aa-6cbb-4d90-a154-c59dc6e8c3f6")
-	)
-	(label "PWM"
-		(at 304.8 113.03 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "765df559-ca6a-47b7-ac10-8520cad0d476")
 	)
 	(label "ADC1_IN4"
 		(at 148.59 83.82 0)

@@ -2610,9 +2610,7 @@
 							)
 						)
 					)
-					(alternate "" input line)
 					(alternate "I2C3_SCL" bidirectional line)
-					(alternate "" input line)
 					(alternate "RCC_MCO_1" bidirectional line)
 					(alternate "TIM1_CH1" bidirectional line)
 					(alternate "USART1_CK" bidirectional line)
@@ -2793,7 +2791,6 @@
 							)
 						)
 					)
-					(alternate "" input line)
 					(alternate "ADC1_IN8" bidirectional line)
 					(alternate "ADC2_IN8" bidirectional line)
 					(alternate "ETH_RXD2" bidirectional line)
@@ -2885,7 +2882,6 @@
 							)
 						)
 					)
-					(alternate "" input line)
 					(alternate "I2S3_ext_SD" bidirectional line)
 					(alternate "SPI1_MISO" bidirectional line)
 					(alternate "SPI3_MISO" bidirectional line)
@@ -2909,7 +2905,6 @@
 							)
 						)
 					)
-					(alternate "" input line)
 					(alternate "CAN2_RX" bidirectional line)
 					(alternate "DCMI_D10" bidirectional line)
 					(alternate "ETH_PPS_OUT" bidirectional line)
@@ -4334,12 +4329,12 @@
 		(uuid "0a43f5c2-1592-45bc-95be-088e703dc53c")
 	)
 	(no_connect
-		(at 129.54 134.62)
-		(uuid "2f726a03-4eb3-47f2-af09-d2d1f004cfd2")
+		(at 129.54 170.18)
+		(uuid "0cf7d24f-edb4-4cf7-b0a8-3f52457fc04b")
 	)
 	(no_connect
-		(at 129.54 132.08)
-		(uuid "480be5ad-1bdf-4f8c-9b57-6440ef2e6968")
+		(at 129.54 167.64)
+		(uuid "24b1492e-341b-417d-a0a6-9aa17df824db")
 	)
 	(no_connect
 		(at 129.54 157.48)
@@ -5660,6 +5655,17 @@
 		)
 		(uuid "09f37acf-f8cf-4950-a722-50ff2123255f")
 	)
+	(hierarchical_label "RECEIVER_ENABLE"
+		(shape output)
+		(at 129.54 134.62 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0a55be45-d812-4ba8-9040-a9a9618bf2fe")
+	)
 	(hierarchical_label "USB_OTG_FS_DP"
 		(shape bidirectional)
 		(at 129.54 76.2 0)
@@ -5703,17 +5709,6 @@
 			(justify right)
 		)
 		(uuid "12463df6-6bd7-44c7-b6ad-bb989a303d7f")
-	)
-	(hierarchical_label "RECEIVER_ENABLE"
-		(shape output)
-		(at 129.54 170.18 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "165a9264-6892-451b-a73d-649e4c835775")
 	)
 	(hierarchical_label "SPINDLE_ENABLE"
 		(shape output)
@@ -5802,6 +5797,17 @@
 			(justify right)
 		)
 		(uuid "3213eb2f-c2b7-4fce-8c9d-1909281c24b0")
+	)
+	(hierarchical_label "DRIVER_ENABLE"
+		(shape output)
+		(at 129.54 132.08 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "338a3ca5-64f2-412e-908b-f41878a4b4da")
 	)
 	(hierarchical_label "AUX_OUTPUT_5"
 		(shape output)
@@ -6088,17 +6094,6 @@
 			(justify right)
 		)
 		(uuid "a13d968c-24d1-4611-bb99-35b55d1eb29b")
-	)
-	(hierarchical_label "DRIVER_ENABLE"
-		(shape output)
-		(at 129.54 167.64 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "a5221fb2-9a47-459b-bee0-47782c095248")
 	)
 	(hierarchical_label "DIR_Z"
 		(shape output)
@@ -9871,7 +9866,6 @@
 		)
 		(pin "70"
 			(uuid "55cfdc9c-cdf9-4ccc-940c-fd33027bca6d")
-			(alternate "USB_OTG_FS_DM")
 		)
 		(pin "8"
 			(uuid "f6ad1dcc-a393-4057-9b86-477d8620f296")
@@ -9884,7 +9878,6 @@
 		)
 		(pin "54"
 			(uuid "f9c0fc91-1b55-481b-941c-c8bb53b54cfc")
-			(alternate "SPI2_MOSI")
 		)
 		(pin "43"
 			(uuid "c3197e05-8f35-44b9-8990-7a05fc9c6415")
@@ -9894,7 +9887,6 @@
 		)
 		(pin "67"
 			(uuid "dfd5a49f-0967-43dc-ae62-ecb0525ac738")
-			(alternate "PA8")
 		)
 		(pin "64"
 			(uuid "a13159fb-3640-465e-8b38-19ee04a3ff19")
@@ -9925,7 +9917,6 @@
 		)
 		(pin "89"
 			(uuid "c66fea21-c72e-47a3-ac7f-4290ccf6c2c9")
-			(alternate "SYS_JTDO-SWO")
 		)
 		(pin "55"
 			(uuid "0f01bb04-b138-44d5-a1ae-5568bd5ebea1")
@@ -9944,7 +9935,6 @@
 		)
 		(pin "30"
 			(uuid "0dd75f1b-c203-4b47-9165-7fbcc53ac39c")
-			(alternate "ADC1_IN5")
 		)
 		(pin "85"
 			(uuid "7412d75c-de15-4945-86d7-637d5f0f90c4")
@@ -9954,14 +9944,12 @@
 		)
 		(pin "32"
 			(uuid "b5e618e1-9076-4b3f-923b-4453d1cf5501")
-			(alternate "ADC1_IN7")
 		)
 		(pin "51"
 			(uuid "970db609-a522-4b56-8692-bccd2cbe11f4")
 		)
 		(pin "87"
 			(uuid "fb4149cc-3328-49f4-b6be-4751a2a9dc74")
-			(alternate "USART2_RX")
 		)
 		(pin "78"
 			(uuid "19bf0e51-649f-4f3d-a027-2f075f3bc58a")
@@ -9986,22 +9974,18 @@
 		)
 		(pin "52"
 			(uuid "ed2e302d-ab52-46b7-abe9-10c5bf1c9f00")
-			(alternate "SPI2_SCK")
 		)
 		(pin "76"
 			(uuid "09547263-eb3a-414c-b4f0-5d2cd0446fa1")
-			(alternate "SYS_JTCK-SWCLK")
 		)
 		(pin "68"
 			(uuid "d5fef454-34b3-49f7-8d73-eb6269233ca4")
-			(alternate "USART1_TX")
 		)
 		(pin "5"
 			(uuid "4a480321-a524-4570-8fdf-154d313c6121")
 		)
 		(pin "24"
 			(uuid "a1ff3ca6-0ea7-4185-9c64-5975635ff40a")
-			(alternate "ADC1_IN1")
 		)
 		(pin "66"
 			(uuid "56f24793-3631-4cd5-b710-9236c76aee57")
@@ -10032,7 +10016,6 @@
 		)
 		(pin "26"
 			(uuid "ce3196ea-5063-4b56-8f0d-e08dd66367aa")
-			(alternate "ADC1_IN3")
 		)
 		(pin "63"
 			(uuid "be590d0f-6d8e-4719-a708-cb001b9fbfd5")
@@ -10045,14 +10028,12 @@
 		)
 		(pin "48"
 			(uuid "71064586-b96c-488e-8d62-e7791a0e421a")
-			(alternate "I2C2_SDA")
 		)
 		(pin "57"
 			(uuid "73c75928-0b23-4c2d-b2b9-db11ba316d7c")
 		)
 		(pin "47"
 			(uuid "577867cf-a1a1-4a5e-877d-86f47ec2a777")
-			(alternate "I2C2_SCL")
 		)
 		(pin "11"
 			(uuid "dd0ed990-e95f-40bf-b863-1e41a31edad7")
@@ -10065,11 +10046,9 @@
 		)
 		(pin "31"
 			(uuid "74579e64-20d7-49a7-abeb-beb43ccf3465")
-			(alternate "ADC1_IN6")
 		)
 		(pin "23"
 			(uuid "b94b4396-9f31-4005-a62b-2fff0e9e4793")
-			(alternate "ADC1_IN0")
 		)
 		(pin "33"
 			(uuid "b45880d8-ddad-4ba1-b053-8f85ce64855e")
@@ -10091,7 +10070,6 @@
 		)
 		(pin "77"
 			(uuid "f28b3350-e20f-44d7-acd6-47bd3c94ee9a")
-			(alternate "SYS_JTDI")
 		)
 		(pin "45"
 			(uuid "081a080a-1d8a-44e6-b787-a133d16da704")
@@ -10101,14 +10079,12 @@
 		)
 		(pin "71"
 			(uuid "ee0eb22c-86ed-4f83-ab7d-f039d48137cf")
-			(alternate "USB_OTG_FS_DP")
 		)
 		(pin "18"
 			(uuid "73353717-4d6d-461f-81f0-fe77d49f4b1f")
 		)
 		(pin "53"
 			(uuid "4979bb61-c36a-4b1c-804a-32cc4a449426")
-			(alternate "SPI2_MISO")
 		)
 		(pin "79"
 			(uuid "5ce9f3c9-2bd0-4dc4-bf6a-3a1a5c361514")
@@ -10121,14 +10097,12 @@
 		)
 		(pin "86"
 			(uuid "e3675cda-4fc9-4824-bb90-2a6231e91d14")
-			(alternate "USART2_TX")
 		)
 		(pin "50"
 			(uuid "70b0437a-0b08-4c22-958c-b7be1e789c8b")
 		)
 		(pin "91"
 			(uuid "82e525ff-9d86-4860-b882-4d78bbed80ac")
-			(alternate "SPI1_MOSI")
 		)
 		(pin "12"
 			(uuid "e784be2b-b6ee-4ca7-87fd-bf6b4b596a5a")
@@ -10138,15 +10112,12 @@
 		)
 		(pin "29"
 			(uuid "cc372740-b260-4fdd-bcfd-1e061aac9e64")
-			(alternate "ADC1_IN4")
 		)
 		(pin "69"
 			(uuid "d15e81a3-76e2-4ae2-82e2-ba43547dd807")
-			(alternate "USART1_RX")
 		)
 		(pin "72"
 			(uuid "8421fd97-a5e6-4adb-947c-53f8fd036eea")
-			(alternate "SYS_JTMS-SWDIO")
 		)
 		(pin "100"
 			(uuid "ab948276-4cc9-4666-8944-6655ca4a8baa")
@@ -10162,11 +10133,9 @@
 		)
 		(pin "25"
 			(uuid "469aece8-82d3-4c50-91b3-c2621630a458")
-			(alternate "ADC1_IN2")
 		)
 		(pin "90"
 			(uuid "5f9014cf-3788-41ed-8d65-8f4fbc262897")
-			(alternate "SPI1_MISO")
 		)
 		(pin "40"
 			(uuid "e17ffa26-95a3-4b06-a45c-93488a8c1d67")

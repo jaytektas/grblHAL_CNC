@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (2aeb623e1d, 2025-05-12)"
+   sodipodi:docname="Conceptual Overall Stepper Wiring Flow.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="262.33661"
+     inkscape:cy="321.02648"
+     inkscape:window-width="1920"
+     inkscape:window-height="950"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="marker40"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path40" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker39"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path39" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker38"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path38" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g23"
+       transform="matrix(0.80533454,0,0,0.74128521,35.456925,-4.487583)">
+      <rect
+         style="fill:#c1bc48;fill-opacity:1;stroke:#c1bc48;stroke-width:0.219004;stroke-opacity:1"
+         id="rect1"
+         width="62.057774"
+         height="30.236347"
+         x="14.001436"
+         y="23.607906"
+         rx="0.66666907"
+         ry="1" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.235;stroke-opacity:1"
+         x="44.830189"
+         y="30.420479"
+         id="text1"><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.235"
+           x="44.830189"
+           y="30.420479"
+           id="tspan2">JAYTEK GRBLHAL Controller</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.235"
+           x="44.830189"
+           y="35.712143"
+           id="tspan3">(Provides logic signals)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.235;stroke-opacity:1"
+         x="20.613882"
+         y="50.599522"
+         id="text4"><tspan
+           sodipodi:role="line"
+           id="tspan4"
+           style="stroke-width:0.235"
+           x="20.613882"
+           y="50.599522">STEP</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.235;stroke-opacity:1"
+         x="33.422508"
+         y="50.65947"
+         id="text5"><tspan
+           sodipodi:role="line"
+           id="tspan5"
+           style="stroke-width:0.235"
+           x="33.422508"
+           y="50.65947">DIR</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.235"
+           x="33.422508"
+           y="55.951134"
+           id="tspan6" /></text>
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.235;stroke-opacity:1"
+         x="69.646904"
+         y="50.599522"
+         id="text7"><tspan
+           sodipodi:role="line"
+           id="tspan7"
+           style="stroke-width:0.235"
+           x="69.646904"
+           y="50.599522">GND</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.235;stroke-opacity:1"
+         x="52.035046"
+         y="50.65947"
+         id="text8"><tspan
+           sodipodi:role="line"
+           id="tspan8"
+           style="stroke-width:0.235"
+           x="52.035046"
+           y="50.65947">ENABLE</tspan></text>
+    </g>
+    <g
+       id="g21"
+       transform="matrix(0.80533454,0,0,0.74128521,109.75881,-50.033165)">
+      <rect
+         style="fill:#a2a2a2;fill-opacity:1;stroke:#a2a2a2;stroke-width:0.1598;stroke-opacity:1"
+         id="rect17"
+         width="68.72142"
+         height="27.893932"
+         x="27.580994"
+         y="162.07156"
+         rx="0.50870663"
+         ry="0.60598153" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.235;stroke-opacity:1"
+         x="61.941704"
+         y="171.96814"
+         id="text18"><tspan
+           sodipodi:role="line"
+           id="tspan18"
+           style="fill:#000000;stroke:#000000;stroke-width:0.235"
+           x="61.941704"
+           y="171.96814">Motor Power Supply </tspan><tspan
+           sodipodi:role="line"
+           style="fill:#000000;stroke:#000000;stroke-width:0.235"
+           x="61.941704"
+           y="177.2598"
+           id="tspan20">(e.g., 24V-48V DC)</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:3.52778px;fill:#000000;stroke:#000000;stroke-width:0.235"
+           x="61.941704"
+           y="182.55147"
+           id="tspan19">(high current/voltage for motors)</tspan></text>
+    </g>
+    <g
+       id="g30"
+       transform="matrix(0.80533454,0,0,0.74128521,21.11231,7.2326159)">
+      <rect
+         style="fill:#c7446d;fill-opacity:1;stroke:#c7446d;stroke-width:0.315048;stroke-opacity:1"
+         id="rect8"
+         width="118.19959"
+         height="48.352566"
+         x="4.843257"
+         y="73.889748"
+         rx="0.97700936"
+         ry="1.2263962" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.235;stroke-opacity:1"
+         x="50.033691"
+         y="91.861855"
+         id="text9"><tspan
+           sodipodi:role="line"
+           id="tspan9"
+           style="stroke-width:0.235"
+           x="50.033691"
+           y="91.861855">Stepper Driver (e.g., DRV8825, DM542)</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.235"
+           x="50.033691"
+           y="97.153519"
+           id="tspan10">(Translates signals to motor power)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.235;stroke-opacity:1"
+         x="30.620621"
+         y="79.674873"
+         id="text11"><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.235"
+           x="30.620621"
+           y="79.674873"
+           id="tspan12">STEP IN</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.235;stroke-opacity:1"
+         x="50.433968"
+         y="79.734818"
+         id="text13"><tspan
+           sodipodi:role="line"
+           id="tspan13"
+           style="stroke-width:0.235"
+           x="50.433968"
+           y="79.734818">DIR IN</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.235;stroke-opacity:1"
+         x="74.049866"
+         y="79.734818"
+         id="text14"><tspan
+           sodipodi:role="line"
+           id="tspan14"
+           style="stroke-width:0.235"
+           x="74.049866"
+           y="79.734818">ENABLE IN</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.235;stroke-opacity:1"
+         x="100.46765"
+         y="79.674873"
+         id="text15"><tspan
+           sodipodi:role="line"
+           id="tspan15"
+           style="stroke-width:0.235"
+           x="100.46765"
+           y="79.674873">GND IN</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.235;stroke-opacity:1"
+         x="112.80376"
+         y="95.064011"
+         id="text16"><tspan
+           sodipodi:role="line"
+           id="tspan16"
+           style="stroke-width:0.235"
+           x="112.80376"
+           y="95.064011">VMOT</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.235;stroke-opacity:1"
+         x="114.44604"
+         y="103.06942"
+         id="text17"><tspan
+           sodipodi:role="line"
+           id="tspan17"
+           style="stroke-width:0.235"
+           x="114.44604"
+           y="103.06942">GND</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.235;stroke-opacity:1"
+         x="65.243935"
+         y="120.28098"
+         id="text21"><tspan
+           sodipodi:role="line"
+           id="tspan21"
+           style="font-size:4.23333px;stroke-width:0.235"
+           x="65.243935"
+           y="120.28098">A+    A-    B+    B1-</tspan></text>
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.688464;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker38)"
+       d="m 122.65937,75.921882 h 8.82978 0.51187"
+       id="path27" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.683984;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker39)"
+       d="m 131.83984,82.152875 h -9.22043"
+       id="path28" />
+    <g
+       id="g29"
+       transform="matrix(0.80533454,0,0,0.74128521,21.11231,7.2326159)">
+      <rect
+         style="fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:0.706181;stroke-dasharray:none;stroke-opacity:1"
+         id="rect28"
+         width="50.938709"
+         height="30.628105"
+         x="39.821159"
+         y="153.19446"
+         rx="0.44271776"
+         ry="0.75095892" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.275;stroke-dasharray:none;stroke-opacity:1"
+         x="65.082779"
+         y="167.03056"
+         id="text28"><tspan
+           sodipodi:role="line"
+           id="tspan28"
+           style="stroke-width:0.275;stroke-dasharray:none"
+           x="65.082779"
+           y="167.03056">Bipolar Stepper Motor</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.275;stroke-dasharray:none"
+           x="65.082779"
+           y="172.32222"
+           id="tspan29">(e.g., NEMA 17, 23)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.235;stroke-opacity:1"
+         x="65.04789"
+         y="158.64632"
+         id="text21-3"><tspan
+           sodipodi:role="line"
+           id="tspan21-5"
+           style="font-size:4.23333px;stroke-width:0.235"
+           x="65.04789"
+           y="158.64632">A+    A-    B+    B1-</tspan></text>
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.722184;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker40)"
+       d="M 59.466367,97.996052 V 118.21526"
+       id="path30" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.718592;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker40)"
+       d="M 68.415647,97.938603 V 118.29645"
+       id="path31" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.71179;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker40)"
+       d="M 77.364927,97.996052 V 118.30319"
+       id="path32" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.716389;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker40)"
+       d="M 86.314207,97.938603 V 118.17185"
+       id="path33" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.722779;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle)"
+       d="M 51.848778,35.45523 V 59.848952"
+       id="path34" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.715121;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle)"
+       d="M 62.094268,35.524572 V 59.760466"
+       id="path35" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.718598;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle)"
+       d="M 77.010495,35.524572 V 59.876829"
+       id="path36" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.718343;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle)"
+       d="M 91.625385,35.524572 V 59.73969"
+       id="path37" />
+  </g>
+</svg>

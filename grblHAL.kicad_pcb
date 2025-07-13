@@ -89407,7 +89407,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "5V G"
+	(gr_text "G 5V"
 		(at 105.49 45.44 180)
 		(layer "F.SilkS")
 		(uuid "140dc878-0293-4c7f-ad73-edbac7210e3a")
@@ -89420,7 +89420,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "JAYTEK 2025 REV2\ngrblHAL CNC STM32F4xx\n\n"
+	(gr_text "JAYTEK 2025 REV3\ngrblHAL CNC STM32F4xx\n\n"
 		(at 158.51 99.01 0)
 		(layer "F.SilkS")
 		(uuid "18d94a22-6d67-48f9-ade9-7280d7ec73b9")
@@ -89615,7 +89615,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "5V G"
+	(gr_text "G 5V"
 		(at 151.93 45.18 180)
 		(layer "F.SilkS")
 		(uuid "76420057-5f18-41e8-97fa-bc74ae86b620")
